@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RangingActivity"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/beaconHeadingTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/beacon"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#283818"/>
+
+    <TextView
+        android:id="@+id/beaconTextView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:singleLine="false"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:scrollbars="vertical"
+        android:gravity="bottom"
+        android:textColor="#283818"
+        android:background="#c9c0cc"/>
+
+    <TextView
+        android:id="@+id/magneticHeadingTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/magnetic"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#283818"/>
+
+    <TextView
+        android:id="@+id/magneticTextView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:singleLine="false"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:scrollbars="vertical"
+        android:gravity="bottom"
+        android:textColor="#283818"
+        android:background="#c9c0cc"/>
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/save"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        />
+
+</LinearLayout>

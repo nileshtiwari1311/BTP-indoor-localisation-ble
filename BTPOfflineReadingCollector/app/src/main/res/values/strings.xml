@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BTP Offline Reading Collector</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+    <string name="disable_monitoring">Disable Monitoring</string>
+    <string name="y">Y :</string>
+    <string name="x">X :</string>
+    <string name="enter_x">Enter value of X co-ordinate</string>
+    <string name="enter_y">Enter value of Y co-ordinate</string>
+    <string name="monitor">Monitoring Events</string>
+    <string name="show_events">Events are shown here.</string>
+    <string name="beacon_data">Beacon data shown here.</string>
+    <string name="magnetic_data">Magnetic data shown here.</string>
+    <string name="beacon">Beacon Data</string>
+    <string name="magnetic">Magnetic Data</string>
+    <string name="exit">Exit</string>
+</resources>
