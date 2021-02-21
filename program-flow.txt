@@ -1,0 +1,26 @@
+1.	required : original-readings
+	python3 ref_data_generator_original.py
+	output : geoMagRef, beaconRef-original
+
+2.	required : beaconRef-original	
+	python3 missing_value_imputation
+	use the output on screen to make missing-values
+
+3.	required : beaconRef-original
+	python3 distance_estimator.py
+
+4.	required : missing-values
+	python3 fill_missing_value_json.py
+	output : corrected-json
+	use corrected-json to make BTP-readings-model and sample-points-readings
+
+5.	required : BTP-readings-model
+	python3 ref_data_generator_final.py
+	output : beaconRef
+
+6.	required : beaconRef
+	python3 rssi_distance_graph.py
+	use output on screen to check for consistency in graphs for each beacon
+
+7.	required : geoMagRef, beaconRef, sample-points-readings
+	python3 btp_model.py

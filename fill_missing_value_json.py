@@ -3,7 +3,7 @@ import os
 import glob
 import random
 
-save_path = os.getcwd() + "/corrected_json/"
+save_path = os.getcwd() + "/corrected-json/"
 if not(os.path.isdir(save_path)) : 
 	os.mkdir(save_path)
 
@@ -17,7 +17,7 @@ rssi_list.sort()
 distance_list.sort()
 
 counter = 0
-json_dir = os.getcwd() + "/missing_values/"
+json_dir = os.getcwd() + "/missing-values/"
 for filename in glob.glob(os.path.join(json_dir, '*.json')):
 	with open(filename, 'r') as f: 
 		data = json.load(f)

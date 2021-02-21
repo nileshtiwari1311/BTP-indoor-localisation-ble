@@ -5,7 +5,7 @@ import random
 
 b1 = {}
 b2 = {}
-ref_dir = os.getcwd() + "/beaconRef/"
+ref_dir = os.getcwd() + "/beaconRef-original/"
 f = open(os.path.join(ref_dir, "beaconRef.json"),"r")
 data = json.load(f)
 f.close()

@@ -33,7 +33,7 @@ for it in data["beaconRef"]:
 	b1[ref_point] = beacon_data
 
 print("Expected\t\tGeoMag\t\t\tBLE")
-sample_dir = os.getcwd() + "/sample_point_reading/"
+sample_dir = os.getcwd() + "/sample-points-readings/"
 for filename in glob.glob(os.path.join(sample_dir, '*.json')):
 	with open( filename, 'r') as f: 
 
