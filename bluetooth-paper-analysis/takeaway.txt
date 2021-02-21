@@ -1,0 +1,20 @@
+RSS variation with time and channel(37,38,39)
+RSS variation with distance to transmitter(beacon)
+Signal strength map per source(beacon)
+Seperate database for each set of fingerprint construction parameters(window length, filter algorithm)
+Location map with beacon positions
+Reduced beacon set (variation of result with beacon density)
+Mean error variation with fingerprint dimensionality (no of beacons per fingerprint)
+Raw RSSI vs Corrected RSSI
+Standard deviation of the RSSI before and after correction
+Comparison of the positioning RMSE, MAE ,and maximum error between the traditional and proposed methods
+Raw RSSI values and average
+Cumulative probability error for distance estimation
+Histogram of distance estimation error
+
+
+--------------------------------------------
+30_5 to 42_5
+
+rssi - mean = -92.16033815192745, max = -89.58, min = -95.55555555555556
+distance - mean = 2.474227767491601, max = 3.0276438935789254, min = 2.0248844149475116
