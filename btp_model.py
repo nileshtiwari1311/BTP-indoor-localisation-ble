@@ -1,10 +1,9 @@
 import json
 import os
 import glob
-import random
 
 m1 = {}
-ref_dir = os.getcwd() + "/geoMagRef/"
+ref_dir = os.getcwd() + "/geoMagRef-model/"
 f = open(os.path.join(ref_dir, "geoMagRef.json"),"r")
 data = json.load(f)
 f.close()
@@ -18,7 +17,7 @@ for it in data["geoMagRef"]:
 	m1[ref_point] = (it['mx'], it['my'], it['mz'], it["MA"])
 
 b1 = {}
-ref_dir = os.getcwd() + "/beaconRef/"
+ref_dir = os.getcwd() + "/beaconRef-model/"
 f = open(os.path.join(ref_dir, "beaconRef.json"),"r")
 data = json.load(f)
 f.close()

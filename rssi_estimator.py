@@ -6,10 +6,10 @@ from matplotlib import pyplot as plt
 import json
 import os
 
-def fit_missing_distance(rssi_list, distance_list, poly_degree, x_pred_list) :
-	x = np.array(rssi_list)
+def fit_missing_rssi(x_list, rssi_list, poly_degree, x_pred_list) :
+	x = np.array(x_list)
 	X = x.reshape(-1, 1)
-	y = np.array(distance_list)
+	y = np.array(rssi_list)
 	Y = y.reshape(-1, 1)
 
 	polynomial_features = PolynomialFeatures(degree=poly_degree)
@@ -23,11 +23,8 @@ def fit_missing_distance(rssi_list, distance_list, poly_degree, x_pred_list) :
 	y_pred = model.predict(x_pred_transform)
 
 	print(y_pred.flatten().tolist())
-	plt.title("Variation in RSSI received vs distance from Bluetooth beacon ") 
-	plt.xlabel("Distance in meters") 
-	plt.ylabel("RSSI in dBm") 
-	plt.plot(y_pred, x_pred, "-or")
-	plt.plot(distance_list, rssi_list, "og")
+	plt.plot(x_pred, y_pred, "-or")
+	plt.plot(x_list, rssi_list, "og")
 	plt.show()
 
 ref_dir = os.getcwd() + "/beaconRef-original/"
@@ -36,44 +33,44 @@ data = json.load(f)
 f.close()
 
 b1 = {}
-b2 = {}
 
 for it in data["beaconRef"]:
 	x_coord = it["x-coord"]
 	y_coord = it["y-coord"]
 	ref_point = (x_coord, y_coord)
 	beacon_rssi = {}
-	beacon_distance = {}
 	for reading in it["beaconData"]:
 		beacon_rssi[reading["id3"]] = reading["rssi"]
-		beacon_distance[reading["id3"]] = reading["distance"]
 	b1[ref_point] = beacon_rssi
-	b2[ref_point] = beacon_distance
+
+x_list_1 = []
+x_list_3 = []
+x_list_5 = []
 
 rssi_list_1 = []
 rssi_list_3 = []
 rssi_list_5 = []
-
-distance_list_1 = []
-distance_list_3 = []
-distance_list_5 = []
 
 for i in range(1,60) :
 	if i%2 == 0:
 		ref_point = (i, 1)
 		if 1 in b1[ref_point] :
 			rssi_list_1.append(b1[ref_point][1])
-			distance_list_1.append(b2[ref_point][1])
+			x_list_1.append(i)
 		ref_point = (i, 5)
 		if 1 in b1[ref_point] :
 			rssi_list_5.append(b1[ref_point][1])
-			distance_list_5.append(b2[ref_point][1])
+			x_list_5.append(i)
 	else :
 		ref_point = (i, 3)
 		if 1 in b1[ref_point] :
 			rssi_list_3.append(b1[ref_point][1])
-			distance_list_3.append(b2[ref_point][1])
+			x_list_3.append(i)
 
-fit_missing_distance(rssi_list_1, distance_list_1, 4, [-93.76550939984494, -93.73444212842611, -93.48592415265531, -93.0661869976001, -92.52817943777592, -91.93156749714603])
-fit_missing_distance(rssi_list_3, distance_list_3, 4, [-96.02373560824489, -96.24537458861957, -96.18926588475158, -95.89496403746683, -95.41012253687545, -94.79049382237181])
-fit_missing_distance(rssi_list_5, distance_list_5, 4, [-92.84848910911505, -93.12445400911051, -93.26254063114618, -93.29841186161869, -93.26753461767265, -93.20517984720072, -93.14642252884377])
+# x_list_1 should be equal to [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 44, 46, 48, 50, 52, 54, 56, 58]
+# x_list_3 should be equal to [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 43, 45, 47, 49, 51, 53, 55, 57, 59]
+# x_list_5 should be equal to [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 44, 46, 48, 50, 52, 54, 56, 58]
+
+fit_missing_rssi(x_list_1, rssi_list_1, 4, [32, 34, 36, 38, 40, 42])
+fit_missing_rssi(x_list_3, rssi_list_3, 4, [31, 33, 35, 37, 39, 41])
+fit_missing_rssi(x_list_5, rssi_list_5, 4, [30, 32, 34, 36, 38, 40, 42])
