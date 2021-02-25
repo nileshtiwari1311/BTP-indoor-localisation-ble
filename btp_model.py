@@ -10,6 +10,11 @@ f.close()
 
 #map<pair<x,y>,<mx,my,mz,MA>> m1;
 
+mean_error_ble=0
+mean_error_ble_count=0
+mean_error_mag=0
+mean_error_mag_count=0
+
 for it in data["geoMagRef"]:
 	x_coord = it["x-coord"]
 	y_coord = it["y-coord"]
@@ -31,7 +36,7 @@ for it in data["beaconRef"]:
 		beacon_data[reading["address"]] = reading["rssi"]
 	b1[ref_point] = beacon_data
 
-print("Expected\t\tGeoMag\t\t\tBLE")
+print("Expected\t\tGeoMag\t\t\t\tBLE\t\t\t\tAE")
 sample_dir = os.getcwd() + "/sample-points-readings/"
 for filename in glob.glob(os.path.join(sample_dir, '*.json')):
 	with open( filename, 'r') as f: 
@@ -121,6 +126,27 @@ for filename in glob.glob(os.path.join(sample_dir, '*.json')):
 		x_ble/= divi
 		y_ble/= divi
 
-		print("x=" + str(x_coord) + "\t\tx=" + str(x_mag) + "\t\tx=" + str(x_ble))
-		print("y=" + str(y_coord) + "\t\ty=" + str(y_mag) + "\t\ty=" + str(y_ble))
+		errx = ((x_coord-x_ble)*0.6)**2
+		erry = ((y_coord-y_ble)*0.3)**2
+		err = (errx+erry)**(0.5)
+		
+		mean_error_ble += err
+		mean_error_ble_count+=1
+
+		print("x=" + str(x_coord) + "\t\tx=" + str(x_mag) + "\t\tx=" + str(x_ble)+"\t\t"+str(err))
+		errx = ((x_coord-x_mag)*0.6)**2
+		erry = ((y_coord-y_mag)*0.3)**2
+		err = (errx+erry)**(0.5)
+		
+		mean_error_mag += err
+		mean_error_mag_count+=1
+		
+		print("y=" + str(y_coord) + "\t\ty=" + str(y_mag) + "\t\ty=" + str(y_ble)+"\t\t"+str(err))
 		print()
+
+
+print("mean_error_ble : ")
+print(mean_error_ble/mean_error_ble_count)
+print()
+print("mean_error_mag")
+print(mean_error_mag/mean_error_mag_count)

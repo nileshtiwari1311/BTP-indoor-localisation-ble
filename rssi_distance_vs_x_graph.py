@@ -9,6 +9,14 @@ f = open(os.path.join(ref_dir, "beaconRef.json"),"r")
 data = json.load(f)
 f.close()
 
+save_dir_rssi = os.getcwd() + "/Graphs/rssi_vs_x/"
+if not(os.path.isdir(save_dir_rssi)) : 
+	os.mkdir(save_dir_rssi)
+
+save_dir_distance = os.getcwd() + "/Graphs/distance_vs_x/"
+if not(os.path.isdir(save_dir_distance)) : 
+	os.mkdir(save_dir_distance)
+
 for it in data["beaconRef"]:
 	x_coord = it["x-coord"]
 	y_coord = it["y-coord"]
@@ -53,22 +61,35 @@ for i in range(1, 60) :
 				rssi_list_3[j-1].append(b1[ref_point][j])
 				distance_list_3[j-1].append(b2[ref_point][j])
 
-beaconNo = 1
+# beaconNo = 1
 
-plt.plot(x_list_1[beaconNo-1], rssi_list_1[beaconNo-1], "-ob")
-plt.show()
+for beaconNo in range(1,7):
+	plt.figure(figsize=(16, 10))
+	plt.title("Variation in RSSI with x coordinate for beacon " + str(beaconNo) + " located at (" + str(10*beaconNo-5) + ", " + str(0 if beaconNo%2 == 1 else 6) + ")") 
+	plt.xlabel("X coordinates (1 unit = 0.6 metres)") 
+	plt.ylabel("RSSI in dBm")
+	plt.plot(x_list_1[beaconNo-1], rssi_list_1[beaconNo-1], "-ob")
+	plt.plot(x_list_3[beaconNo-1], rssi_list_3[beaconNo-1], "-or")
+	plt.plot(x_list_5[beaconNo-1], rssi_list_5[beaconNo-1], "-og")
+	plt.axvline(x=10*beaconNo-5, color="black", linestyle="--")
+	plt.legend(["Y coordinate = 1", "Y coordinate = 3", "Y coordinate = 5"])
+	plt.grid()
+	# plt.show()
+	filename = os.path.join(save_dir_rssi, "rssi_vs_x_" + str(beaconNo))
+	plt.savefig(filename, dpi=200, bbox_inches='tight')
+	plt.close()
 
-plt.plot(x_list_3[beaconNo-1], rssi_list_3[beaconNo-1], "-ob")
-plt.show()
-
-plt.plot(x_list_5[beaconNo-1], rssi_list_5[beaconNo-1], "-ob")
-plt.show()
-
-plt.plot(x_list_1[beaconNo-1], distance_list_1[beaconNo-1], "-ob")
-plt.show()
-
-plt.plot(x_list_3[beaconNo-1], distance_list_3[beaconNo-1], "-ob")
-plt.show()
-
-plt.plot(x_list_5[beaconNo-1], distance_list_5[beaconNo-1], "-ob")
-plt.show()
+	plt.figure(figsize=(16, 10))
+	plt.title("Variation in reported distance from beacon with x coordinate for beacon " + str(beaconNo) + " located at (" + str(10*beaconNo-5) + ", " + str(0 if beaconNo%2 == 1 else 6) + ")")  
+	plt.xlabel("X coordinates (1 unit = 0.6 metres)") 
+	plt.ylabel("Distance in metres")
+	plt.plot(x_list_1[beaconNo-1], distance_list_1[beaconNo-1], "-ob")
+	plt.plot(x_list_3[beaconNo-1], distance_list_3[beaconNo-1], "-or")
+	plt.plot(x_list_5[beaconNo-1], distance_list_5[beaconNo-1], "-og")
+	plt.legend(["Y coordinate = 1", "Y coordinate = 3", "Y coordinate = 5"])
+	plt.axvline(x=10*beaconNo-5, color="black", linestyle="--")
+	plt.grid()
+	# plt.show()
+	filename = os.path.join(save_dir_distance, "distance_vs_x_" + str(beaconNo))
+	plt.savefig(filename, dpi=200, bbox_inches='tight')
+	plt.close()

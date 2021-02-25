@@ -21,15 +21,23 @@
 
 6.	required : beaconRef
 	python3 rssi_distance_vs_x_graph.py
-	use output on screen to check for consistency in graphs for each beacon
+	check generated graphs for consistency in graphs for each beacon
 
 7.	required : beaconRef
 	python3 rssi_vs_distance_graph.py
-	use output on screen to check for consistency in graphs for each beacon
+	check generated graphs for consistency in graphs for each beacon
 
-8.	required : ref-points-readings
+8.	required : beaconRef
+	python3 rssi_map_graph.py
+	check generated graphs for consistency in graphs for each beacon
+
+9.	required : final-readings
+	python3 rssi_vs_sampling_times_graph.py
+	check generated graph for consistency in readings of each beacon
+
+10.	required : ref-points-readings
 	python3 ref_data_generator_model.py
 	output : beaconRef-model, geoMagRef-model
 
-8.	required : geoMagRef-model, beaconRef-model, sample-points-readings
+11.	required : geoMagRef-model, beaconRef-model, sample-points-readings
 	python3 btp_model.py
