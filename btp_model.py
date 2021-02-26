@@ -2,18 +2,31 @@ import json
 import os
 import glob
 
+mae_ble = 0
+mae_mag = 0
+sum_error_ble = 0
+sum_error_mag = 0
+
+max_error_ble = 0
+max_error_mag = 0
+
+rmse_ble_x = 0
+rmse_ble_y = 0
+rmse_mag_x = 0
+rmse_mag_y = 0
+sum_square_error_x_ble = 0
+sum_square_error_x_mag = 0
+sum_square_error_y_ble = 0
+sum_square_error_y_mag = 0
+
+count_error = 0
+
+#map<pair<x,y>,<mx,my,mz,MA>> m1;
 m1 = {}
 ref_dir = os.getcwd() + "/geoMagRef-model/"
 f = open(os.path.join(ref_dir, "geoMagRef.json"),"r")
 data = json.load(f)
 f.close()
-
-#map<pair<x,y>,<mx,my,mz,MA>> m1;
-
-mean_error_ble=0
-mean_error_ble_count=0
-mean_error_mag=0
-mean_error_mag_count=0
 
 for it in data["geoMagRef"]:
 	x_coord = it["x-coord"]
@@ -129,24 +142,40 @@ for filename in glob.glob(os.path.join(sample_dir, '*.json')):
 		errx = ((x_coord-x_ble)*0.6)**2
 		erry = ((y_coord-y_ble)*0.3)**2
 		err = (errx+erry)**(0.5)
+
+		if err > max_error_ble :
+			max_error_ble = err
 		
-		mean_error_ble += err
-		mean_error_ble_count+=1
+		sum_error_ble += err
+		sum_square_error_x_ble += errx
+		sum_square_error_y_ble += erry
 
 		print("x=" + str(x_coord) + "\t\tx=" + str(x_mag) + "\t\tx=" + str(x_ble)+"\t\t"+str(err))
 		errx = ((x_coord-x_mag)*0.6)**2
 		erry = ((y_coord-y_mag)*0.3)**2
 		err = (errx+erry)**(0.5)
+
+		if err > max_error_mag :
+			max_error_mag = err
 		
-		mean_error_mag += err
-		mean_error_mag_count+=1
+		sum_error_mag += err
+		sum_square_error_x_mag += errx
+		sum_square_error_y_mag += erry
+
+		count_error += 1
 		
 		print("y=" + str(y_coord) + "\t\ty=" + str(y_mag) + "\t\ty=" + str(y_ble)+"\t\t"+str(err))
 		print()
 
 
-print("mean_error_ble : ")
-print(mean_error_ble/mean_error_ble_count)
-print()
-print("mean_error_mag")
-print(mean_error_mag/mean_error_mag_count)
+mae_ble = sum_error_ble/count_error
+mae_mag = sum_error_mag/count_error
+rmse_ble_x = (sum_square_error_x_ble/count_error)**0.5
+rmse_ble_y = (sum_square_error_y_ble/count_error)**0.5
+rmse_mag_x = (sum_square_error_x_mag/count_error)**0.5
+rmse_mag_y = (sum_square_error_y_mag/count_error)**0.5
+
+print("mae_ble = " + str(mae_ble))
+print("max_error_ble = " + str(max_error_ble))
+print("rmse_ble_x = " + str(rmse_ble_x))
+print("rmse_ble_y = " + str(rmse_ble_y))
