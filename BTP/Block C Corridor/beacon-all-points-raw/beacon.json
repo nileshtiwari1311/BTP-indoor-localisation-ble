@@ -1,0 +1,3700 @@
+{
+    "beacon": [
+        {
+            "x-coord": 10,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -72.96,
+                    "distance": 0.6860136407309133
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -84.28,
+                    "distance": 1.3809532136783256
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -84.4,
+                    "distance": 1.3767151581003418
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -76.8,
+                    "distance": 1.034812700251197
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -95.43181818181819,
+                    "distance": 2.4527761038245726
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -89.86,
+                    "distance": 3.6348516169025276
+                }
+            ]
+        },
+        {
+            "x-coord": 10,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -75.26,
+                    "distance": 0.7636104095828555
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -84.54,
+                    "distance": 1.4635852557319047
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.94,
+                    "distance": 1.4103587203135768
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -77.78,
+                    "distance": 1.0999786600540533
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -91.32,
+                    "distance": 2.0258823337516914
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -90.1,
+                    "distance": 3.599752212596467
+                }
+            ]
+        },
+        {
+            "x-coord": 11,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -71.82,
+                    "distance": 0.5572352558564457
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -80.3,
+                    "distance": 1.1715764617522795
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -89.28,
+                    "distance": 1.925939055132217
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -80.56,
+                    "distance": 1.2363694967064036
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -91.82,
+                    "distance": 2.1156494493829885
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -91.56,
+                    "distance": 4.016375373420997
+                }
+            ]
+        },
+        {
+            "x-coord": 12,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -66.87755102040816,
+                    "distance": 0.2692289761748083
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -80.20408163265306,
+                    "distance": 1.1389697700652104
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -95.3695652173913,
+                    "distance": 2.5753658683743614
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.16666666666667,
+                    "distance": 2.825507413261592
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -77.95918367346938,
+                    "distance": 1.1376622184041179
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -83.33333333333333,
+                    "distance": 1.3574924768668577
+                }
+            ]
+        },
+        {
+            "x-coord": 12,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -68.02,
+                    "distance": 0.32322743768726886
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -90.02,
+                    "distance": 1.897984207710019
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -85.52,
+                    "distance": 1.4820767179852743
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -79.28,
+                    "distance": 1.3157654508022423
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -88.77083333333333,
+                    "distance": 1.744029516631817
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -92.44,
+                    "distance": 4.4758469961562986
+                }
+            ]
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -59.78,
+                    "distance": 0.08142468672089369
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.48,
+                    "distance": 1.483427077953551
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -83.4,
+                    "distance": 1.2590615414437465
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -81.88,
+                    "distance": 1.4147544668764156
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -91.9795918367347,
+                    "distance": 2.1296476484704545
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -86.58,
+                    "distance": 3.0185000732025054
+                }
+            ]
+        },
+        {
+            "x-coord": 14,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -64.26,
+                    "distance": 0.16714501155191708
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -77.88,
+                    "distance": 1.074495197677728
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -86.08,
+                    "distance": 1.468617931369175
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -80.48,
+                    "distance": 1.3336516301660353
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -93.44,
+                    "distance": 2.3616630061352293
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -87.8,
+                    "distance": 3.5598124297216414
+                }
+            ]
+        },
+        {
+            "x-coord": 14,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -55.14,
+                    "distance": 0.04136616570365243
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -82.54,
+                    "distance": 1.2804871935618423
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -89.76,
+                    "distance": 1.8677803498655923
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -81.66,
+                    "distance": 1.3655620097579375
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -89.7,
+                    "distance": 1.9129753977725032
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -83.68,
+                    "distance": 2.4408372473426003
+                }
+            ]
+        },
+        {
+            "x-coord": 15,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -66.36,
+                    "distance": 0.2667453163418023
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -75.14,
+                    "distance": 0.9200626795193646
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -76.36,
+                    "distance": 0.9893298647498601
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -84.46,
+                    "distance": 1.5349082328927375
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -97.41666666666667,
+                    "distance": 2.8743330939599385
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -83.98,
+                    "distance": 2.569619908222173
+                }
+            ]
+        },
+        {
+            "x-coord": 16,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -62.98,
+                    "distance": 0.15160354077586502
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -79.26,
+                    "distance": 1.0879291924696528
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -87.78,
+                    "distance": 1.653145137099287
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -82.28,
+                    "distance": 1.2914160888276127
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -90.96,
+                    "distance": 1.8900103025890673
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -81.6,
+                    "distance": 1.9923008188633846
+                }
+            ]
+        },
+        {
+            "x-coord": 16,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -72.18,
+                    "distance": 0.6497831665194101
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -73.98,
+                    "distance": 0.673132028530636
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -86.48,
+                    "distance": 1.5860932166698924
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -88.94,
+                    "distance": 2.0627368172778113
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -92.68,
+                    "distance": 2.185223615907419
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -92.48,
+                    "distance": 4.184151923069625
+                }
+            ]
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -70.66,
+                    "distance": 0.4915405403086038
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -78.74,
+                    "distance": 1.0770707398711472
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -86.2,
+                    "distance": 1.3704546387239815
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -88.96,
+                    "distance": 1.9655295275470785
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -92.2,
+                    "distance": 1.970597245569125
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -82.36,
+                    "distance": 2.2000403263059725
+                }
+            ]
+        },
+        {
+            "x-coord": 18,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -73.61702127659575,
+                    "distance": 0.7278885446112835
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -70.80851063829788,
+                    "distance": 0.5845429949906953
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -86.82222222222222,
+                    "distance": 1.7034479128508957
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -81.73913043478261,
+                    "distance": 1.5174474976491406
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -88.28888888888889,
+                    "distance": 1.7938366519952826
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -83.1304347826087,
+                    "distance": 2.388771738924299
+                }
+            ]
+        },
+        {
+            "x-coord": 18,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -81.88,
+                    "distance": 1.212749121266734
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -82.96,
+                    "distance": 1.2498785681637248
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -73.16,
+                    "distance": 0.6962703324151786
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -87.18,
+                    "distance": 1.7996690001056026
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -87.58,
+                    "distance": 1.7159248525353263
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -89.1,
+                    "distance": 3.425439863469777
+                }
+            ]
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -80.66,
+                    "distance": 1.1750444268759694
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -73.7,
+                    "distance": 0.6821120541797508
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.16,
+                    "distance": 1.4421591679513273
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -86.64,
+                    "distance": 1.6886774770490425
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -90.22,
+                    "distance": 2.026218161565149
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.2,
+                    "distance": 3.1044399001650267
+                }
+            ]
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -88.26,
+                    "distance": 1.6873016628224164
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -92.52,
+                    "distance": 2.1145417888616653
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -88.7,
+                    "distance": 1.7676294055645636
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -66.08,
+                    "distance": 0.3128758615798106
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -95.1,
+                    "distance": 2.5102060910809367
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.52,
+                    "distance": 3.6293172231943145
+                }
+            ]
+        },
+        {
+            "x-coord": 20,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -80.1,
+                    "distance": 1.1394297526381187
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -84.42,
+                    "distance": 1.357886002960948
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -73.54,
+                    "distance": 0.829398118485694
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -90.14,
+                    "distance": 2.1371384495342007
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -90.68,
+                    "distance": 2.0040576795662712
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -77.08,
+                    "distance": 1.5855833181984686
+                }
+            ]
+        },
+        {
+            "x-coord": 20,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -79.54,
+                    "distance": 1.0823170902874895
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -70.1,
+                    "distance": 0.32781511229346605
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -86.32,
+                    "distance": 1.4701102505214445
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -88.2,
+                    "distance": 2.0166791363091683
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -90.84,
+                    "distance": 1.9772547095995174
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -86.54,
+                    "distance": 3.067574749451956
+                }
+            ]
+        },
+        {
+            "x-coord": 21,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -84.52,
+                    "distance": 1.3798781644404943
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -67.6,
+                    "distance": 0.3026110123148694
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.74,
+                    "distance": 1.4877665434172582
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -89.76,
+                    "distance": 2.109881189506474
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -87.66,
+                    "distance": 1.6559407025150819
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -84.76,
+                    "distance": 2.8437422138295694
+                }
+            ]
+        },
+        {
+            "x-coord": 22,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -79.76,
+                    "distance": 1.125025021659401
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -65.86,
+                    "distance": 0.2553470055589083
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -73.18,
+                    "distance": 0.5691486368489433
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -90.0,
+                    "distance": 2.1966248027883974
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -90.28,
+                    "distance": 1.8685485914158482
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -75.22,
+                    "distance": 1.4338422007505738
+                }
+            ]
+        },
+        {
+            "x-coord": 22,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -82.3,
+                    "distance": 1.331660048492656
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -82.0,
+                    "distance": 1.2014198507307137
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -59.64,
+                    "distance": 0.08083029293496347
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -90.9,
+                    "distance": 2.1006502457954106
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -86.98,
+                    "distance": 1.6179586193690283
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -87.7,
+                    "distance": 2.8598837134915813
+                }
+            ]
+        },
+        {
+            "x-coord": 23,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -84.76,
+                    "distance": 1.3433595908696412
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -57.26,
+                    "distance": 0.05077742938669433
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -81.16,
+                    "distance": 1.1909000330183745
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.83673469387755,
+                    "distance": 2.735856385748821
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -88.26,
+                    "distance": 1.7263300831660522
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -84.46,
+                    "distance": 2.4075028492610357
+                }
+            ]
+        },
+        {
+            "x-coord": 44,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -91.38,
+                    "distance": 2.0787059562464556
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -90.94,
+                    "distance": 1.988934003813376
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -74.14,
+                    "distance": 0.791623068783029
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -90.02,
+                    "distance": 2.1062777252350187
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -56.98,
+                    "distance": 0.05123404630693318
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -69.84,
+                    "distance": 1.0837865508798368
+                }
+            ]
+        },
+        {
+            "x-coord": 44,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.29166666666667,
+                    "distance": 2.3675306327022496
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -91.63265306122449,
+                    "distance": 2.09174513336953
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -80.84,
+                    "distance": 1.2351832286087494
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -90.46,
+                    "distance": 2.293006495983676
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -56.48,
+                    "distance": 0.05651320089465235
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -77.94,
+                    "distance": 1.7960556013264948
+                }
+            ]
+        },
+        {
+            "x-coord": 45,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -95.1063829787234,
+                    "distance": 2.5517172812704616
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -84.46,
+                    "distance": 1.448985890371248
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -92.61702127659575,
+                    "distance": 2.1294068872024328
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.46938775510205,
+                    "distance": 2.6697582550266437
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -59.3,
+                    "distance": 0.08404155889081232
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -74.86,
+                    "distance": 1.4018001611947144
+                }
+            ]
+        },
+        {
+            "x-coord": 46,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.64,
+                    "distance": 2.3190473406770087
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -95.4888888888889,
+                    "distance": 2.460296983021377
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -82.02,
+                    "distance": 1.2088592219346805
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.3,
+                    "distance": 2.302083275284769
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -72.78,
+                    "distance": 0.5584673551553386
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -75.32,
+                    "distance": 1.505280459093559
+                }
+            ]
+        },
+        {
+            "x-coord": 46,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.38775510204081,
+                    "distance": 2.3173309805620947
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -93.0,
+                    "distance": 2.343733687157357
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -86.3,
+                    "distance": 1.6002948413513636
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -94.16,
+                    "distance": 2.675230472881006
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -70.06,
+                    "distance": 0.531813185666953
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -73.92,
+                    "distance": 1.4294377145450796
+                }
+            ]
+        },
+        {
+            "x-coord": 47,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -89.26,
+                    "distance": 1.7750017378461154
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.4,
+                    "distance": 1.5086634370895422
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -92.88,
+                    "distance": 2.2581025050081602
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.96,
+                    "distance": 2.3886201148751325
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -70.44,
+                    "distance": 0.5156978301385657
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -75.04,
+                    "distance": 1.247585347185694
+                }
+            ]
+        },
+        {
+            "x-coord": 48,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -89.1,
+                    "distance": 1.8662917978610887
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.32,
+                    "distance": 1.421643072631062
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -90.74,
+                    "distance": 2.0050147726911924
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.12,
+                    "distance": 2.3655422330396254
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -74.38,
+                    "distance": 0.7462871022328936
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -65.48,
+                    "distance": 0.719510354363821
+                }
+            ]
+        },
+        {
+            "x-coord": 48,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -87.6,
+                    "distance": 1.621417214808105
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -93.8,
+                    "distance": 2.3123879319361618
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.26530612244898,
+                    "distance": 2.858319646400999
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -73.46,
+                    "distance": 0.7851776841436027
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -72.58,
+                    "distance": 1.2256245999415833
+                },
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.12244897959184,
+                    "distance": 2.3280387815553882
+                }
+            ]
+        },
+        {
+            "x-coord": 49,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -92.87755102040816,
+                    "distance": 2.2960196560747343
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -93.0,
+                    "distance": 2.174116005238797
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -90.06,
+                    "distance": 1.9388227154574802
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.55555555555556,
+                    "distance": 2.976002943789835
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -77.78,
+                    "distance": 1.033543449519809
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -69.68,
+                    "distance": 1.1611008151687505
+                }
+            ]
+        },
+        {
+            "x-coord": 4,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -84.58,
+                    "distance": 1.4533633379473079
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -92.85714285714286,
+                    "distance": 2.2094172737305113
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -91.52,
+                    "distance": 2.0429556184299003
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -49.8,
+                    "distance": 0.019889596739852793
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -93.42,
+                    "distance": 2.225825812545877
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -89.7,
+                    "distance": 3.7201762966865757
+                }
+            ]
+        },
+        {
+            "x-coord": 4,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -83.06,
+                    "distance": 1.397168767447458
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -89.34,
+                    "distance": 1.7961479484388279
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -60.82,
+                    "distance": 0.15060015550229428
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -91.68,
+                    "distance": 2.076084224167671
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -89.1,
+                    "distance": 3.4672087553161184
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -94.65306122448979,
+                    "distance": 2.5036641555252768
+                }
+            ]
+        },
+        {
+            "x-coord": 50,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -89.97826086956522,
+                    "distance": 1.9370193396371718
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -94.125,
+                    "distance": 2.4278153922534385
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -90.36363636363636,
+                    "distance": 1.8555831294312126
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -88.6304347826087,
+                    "distance": 2.0375568122312795
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -72.82608695652173,
+                    "distance": 0.6778653509257917
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -66.0952380952381,
+                    "distance": 0.783135033456803
+                }
+            ]
+        },
+        {
+            "x-coord": 50,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.04,
+                    "distance": 1.8397851345275873
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -94.24444444444444,
+                    "distance": 2.423136062401271
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.06,
+                    "distance": 1.980196217594125
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.4,
+                    "distance": 2.9624351566200806
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -74.04,
+                    "distance": 0.7451536226695096
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -68.66,
+                    "distance": 0.935769457564555
+                }
+            ]
+        },
+        {
+            "x-coord": 24,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -88.46,
+                    "distance": 1.661267559827057
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -82.0,
+                    "distance": 1.205223190125339
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -59.66,
+                    "distance": 0.08787652446542149
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -89.86,
+                    "distance": 2.144835288952726
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -80.94,
+                    "distance": 1.1844812699459841
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.94,
+                    "distance": 2.8918790719431113
+                }
+            ]
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.88,
+                    "distance": 1.8706905184621068
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -57.66,
+                    "distance": 0.051626203170636244
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -81.9,
+                    "distance": 1.1859467120882148
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.71428571428571,
+                    "distance": 2.6335831763911552
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.32,
+                    "distance": 1.3467129474102126
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.5,
+                    "distance": 3.263743657843965
+                }
+            ]
+        },
+        {
+            "x-coord": 26,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -84.92,
+                    "distance": 1.3675711967250197
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -72.2,
+                    "distance": 0.5164878507614946
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -75.58,
+                    "distance": 0.865057006907717
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -92.79591836734694,
+                    "distance": 2.537750964555478
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -88.74,
+                    "distance": 1.6472927706555955
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.8,
+                    "distance": 2.961702258376282
+                }
+            ]
+        },
+        {
+            "x-coord": 26,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -88.87234042553192,
+                    "distance": 1.7012457856849852
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -70.47916666666667,
+                    "distance": 0.45240056030315534
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -77.08163265306122,
+                    "distance": 1.0170545130521391
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -90.72916666666667,
+                    "distance": 2.3460168039324225
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.06521739130434,
+                    "distance": 1.2698191508289693
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -83.5625,
+                    "distance": 2.131918455220382
+                }
+            ]
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -88.96,
+                    "distance": 1.7296691202332126
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -76.04,
+                    "distance": 0.9078340211323933
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -69.42,
+                    "distance": 0.3135520432261487
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.04081632653062,
+                    "distance": 2.5934012365397847
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.14,
+                    "distance": 1.3364952146534785
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.66,
+                    "distance": 2.791929439003635
+                }
+            ]
+        },
+        {
+            "x-coord": 28,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.64,
+                    "distance": 1.5551252506259883
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -76.32,
+                    "distance": 0.9081955881956612
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -71.62,
+                    "distance": 0.5105335839426761
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.7,
+                    "distance": 2.64979780255056
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -85.14,
+                    "distance": 1.322459118709686
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -83.86,
+                    "distance": 2.4564948448951593
+                }
+            ]
+        },
+        {
+            "x-coord": 28,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -92.02,
+                    "distance": 2.039967401345034
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -73.8,
+                    "distance": 0.7479083113829864
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -70.06,
+                    "distance": 0.37409367469244326
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -89.81632653061224,
+                    "distance": 2.1522226451593083
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -81.74,
+                    "distance": 1.1769974868675035
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.8,
+                    "distance": 2.9601384308183096
+                }
+            ]
+        },
+        {
+            "x-coord": 29,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.35416666666667,
+                    "distance": 1.9484523916328647
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -77.7,
+                    "distance": 1.056203746499876
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -71.3,
+                    "distance": 0.5577882935682207
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.68,
+                    "distance": 2.33215030881819
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.72,
+                    "distance": 1.3781376532403333
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -86.12,
+                    "distance": 2.996021744245503
+                }
+            ]
+        },
+        {
+            "x-coord": 2,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -84.3,
+                    "distance": 1.4477843245099309
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -93.4,
+                    "distance": 2.245739558753226
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.78,
+                    "distance": 1.9657940947552242
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -64.74,
+                    "distance": 0.24909195283698804
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -94.58,
+                    "distance": 2.4600253059517563
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -91.02,
+                    "distance": 3.9513621898214804
+                }
+            ]
+        },
+        {
+            "x-coord": 2,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -83.64,
+                    "distance": 1.3096012435456692
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -92.62,
+                    "distance": 2.175892997203413
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -90.7,
+                    "distance": 1.982995988164654
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -58.58,
+                    "distance": 0.1030501535137217
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -93.6,
+                    "distance": 2.2975404270035598
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.1,
+                    "distance": 2.746618487207055
+                }
+            ]
+        },
+        {
+            "x-coord": 30,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.5,
+                    "distance": 1.6172262919846483
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -67.5,
+                    "distance": 0.3029434287963169
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -75.38,
+                    "distance": 0.8575092354297237
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.0,
+                    "distance": 3.0276438935789254
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -80.44,
+                    "distance": 1.1579047259342128
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -84.62,
+                    "distance": 2.5349562450345346
+                }
+            ]
+        },
+        {
+            "x-coord": 30,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.28,
+                    "distance": 1.6579511887982583
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -71.66,
+                    "distance": 0.49621041719209
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -77.56,
+                    "distance": 0.8903942013216353
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -84.6,
+                    "distance": 1.45590021580114
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -81.62,
+                    "distance": 2.222232941272541
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -92.84848910911509,
+                    "distance": 2.5241024106471173
+                }
+            ]
+        },
+        {
+            "x-coord": 31,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.42,
+                    "distance": 1.6175626950331026
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -70.6,
+                    "distance": 0.4741264101413729
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -67.9,
+                    "distance": 0.30840044289337093
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.88,
+                    "distance": 1.333679188217685
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -81.72,
+                    "distance": 2.188633298418229
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -96.02373560824489,
+                    "distance": 3.056223720002035
+                }
+            ]
+        },
+        {
+            "x-coord": 32,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.88,
+                    "distance": 1.6498664976315487
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -63.94,
+                    "distance": 0.16783745261562188
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -77.02,
+                    "distance": 0.931065095585073
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.68,
+                    "distance": 1.2731656892435543
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.06,
+                    "distance": 2.8350764382494034
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.76550939984496,
+                    "distance": 2.7126305519655887
+                }
+            ]
+        },
+        {
+            "x-coord": 32,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -88.54,
+                    "distance": 1.8199548154465277
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -68.02,
+                    "distance": 0.3546568581860658
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -80.14,
+                    "distance": 1.1734280551479785
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -79.8,
+                    "distance": 1.121117946352714
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.12,
+                    "distance": 3.276649452636535
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.12445400911052,
+                    "distance": 2.564767705873294
+                }
+            ]
+        },
+        {
+            "x-coord": 33,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.08,
+                    "distance": 1.55696342600851
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -65.58,
+                    "distance": 0.21823067330346949
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -79.3,
+                    "distance": 1.0916050138088702
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -75.1,
+                    "distance": 0.9263975150142444
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -78.88,
+                    "distance": 1.8055052895636212
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -96.24537458861958,
+                    "distance": 3.0982769695073644
+                }
+            ]
+        },
+        {
+            "x-coord": 34,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.42,
+                    "distance": 1.7433067472634343
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -80.42,
+                    "distance": 1.1437931362398837
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -66.6,
+                    "distance": 0.19635454522275084
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -82.6,
+                    "distance": 1.2365627825899173
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -73.22,
+                    "distance": 1.1920656043068645
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.73444212842607,
+                    "distance": 2.7073516429282165
+                }
+            ]
+        },
+        {
+            "x-coord": 34,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -92.38,
+                    "distance": 2.2237607482182113
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -56.44897959183673,
+                    "distance": 0.05368771659550905
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.26254063114625,
+                    "distance": 2.5854990225104757
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -85.3061224489796,
+                    "distance": 1.4727272995621605
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -78.45833333333333,
+                    "distance": 1.0776886152910181
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -82.41666666666667,
+                    "distance": 2.369312698591218
+                }
+            ]
+        },
+        {
+            "x-coord": 35,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -89.95918367346938,
+                    "distance": 1.9100265630231295
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -56.54,
+                    "distance": 0.050925140362893195
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -83.74,
+                    "distance": 1.3746550860676303
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.42,
+                    "distance": 1.2827171361755023
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -74.16,
+                    "distance": 1.4080895514821616
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -96.18926588475156,
+                    "distance": 3.087566655563305
+                }
+            ]
+        },
+        {
+            "x-coord": 36,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.7,
+                    "distance": 2.0315242361120616
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -87.1,
+                    "distance": 1.625251916154892
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -62.66,
+                    "distance": 0.12278989375405638
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -77.8,
+                    "distance": 1.0413956528147277
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -78.44,
+                    "distance": 1.6999219693214744
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.48592415265526,
+                    "distance": 2.665635973741587
+                }
+            ]
+        },
+        {
+            "x-coord": 36,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.63265306122449,
+                    "distance": 2.2018739777637353
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -89.79591836734694,
+                    "distance": 1.8335402257329516
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -62.88,
+                    "distance": 0.12452655517786716
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -71.7,
+                    "distance": 0.6705753046910621
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -78.98,
+                    "distance": 1.8255013121276429
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.29841186161867,
+                    "distance": 2.590927033127514
+                }
+            ]
+        },
+        {
+            "x-coord": 37,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.0,
+                    "distance": 2.393019950556293
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -88.16,
+                    "distance": 1.6125077502901044
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -60.76,
+                    "distance": 0.09855604344593362
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -70.3,
+                    "distance": 0.4424147332537426
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -80.54,
+                    "distance": 1.9460672379658897
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.89496403746678,
+                    "distance": 3.0321013156574246
+                }
+            ]
+        },
+        {
+            "x-coord": 38,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.52083333333333,
+                    "distance": 1.8089304382559053
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -60.98,
+                    "distance": 0.11150174190583359
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -89.16,
+                    "distance": 1.7054582205419344
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -78.34,
+                    "distance": 1.0177742684903093
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -72.74,
+                    "distance": 1.2900600109609721
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.06618699760016,
+                    "distance": 2.5972018050092345
+                }
+            ]
+        },
+        {
+            "x-coord": 38,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -92.73469387755102,
+                    "distance": 2.2202473444554514
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -74.88,
+                    "distance": 0.8167228739011938
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -89.04,
+                    "distance": 1.7890761927017325
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -70.94,
+                    "distance": 0.47307814889846406
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -78.62,
+                    "distance": 1.7291285898335749
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.26753461767262,
+                    "distance": 2.586253651571951
+                }
+            ]
+        },
+        {
+            "x-coord": 39,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -91.92,
+                    "distance": 2.084910713419247
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -76.32,
+                    "distance": 0.8843388614559261
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -89.14,
+                    "distance": 1.8056400559954702
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -71.42,
+                    "distance": 0.461527521057003
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -79.54,
+                    "distance": 1.7977829878438192
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.41012253687548,
+                    "distance": 2.943279602398828
+                }
+            ]
+        },
+        {
+            "x-coord": 3,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -87.14285714285714,
+                    "distance": 1.629354342296101
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -89.57446808510639,
+                    "distance": 1.8675242537078638
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -90.95652173913044,
+                    "distance": 1.9529656723634188
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -55.47826086956522,
+                    "distance": 0.05779366314216677
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -92.08695652173913,
+                    "distance": 2.1045612353779832
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.875,
+                    "distance": 3.343519259887753
+                }
+            ]
+        },
+        {
+            "x-coord": 40,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -91.04081632653062,
+                    "distance": 1.8876381352669047
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -91.08,
+                    "distance": 2.076787988684399
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -77.36,
+                    "distance": 0.9460606236151942
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -71.2,
+                    "distance": 0.4772294811406084
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -76.32,
+                    "distance": 1.561874091204163
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -92.528179437776,
+                    "distance": 2.5130567957854737
+                }
+            ]
+        },
+        {
+            "x-coord": 40,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.74,
+                    "distance": 2.2944106467871803
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -90.72,
+                    "distance": 2.0036389299786173
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -78.66,
+                    "distance": 1.0810377560967916
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -70.24,
+                    "distance": 0.41494390608500814
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -80.16,
+                    "distance": 1.8275573450328606
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.20517984720067,
+                    "distance": 2.576855819897446
+                }
+            ]
+        },
+        {
+            "x-coord": 41,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.86,
+                    "distance": 1.924440742458991
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -91.02,
+                    "distance": 1.9651221339584364
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -77.94,
+                    "distance": 1.0092994121299232
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -66.66,
+                    "distance": 0.2341647712039289
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -85.22,
+                    "distance": 2.5590848345255015
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -94.79049382237186,
+                    "distance": 2.834222883880326
+                }
+            ]
+        },
+        {
+            "x-coord": 42,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -91.8,
+                    "distance": 2.168259452600073
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -75.02,
+                    "distance": 0.9363995184851416
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -95.6734693877551,
+                    "distance": 2.5784277661509556
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -68.0,
+                    "distance": 0.31843336698491703
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -81.5,
+                    "distance": 2.1253153440852808
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.93156749714592,
+                    "distance": 2.4242028673807
+                }
+            ]
+        },
+        {
+            "x-coord": 42,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.83673469387755,
+                    "distance": 2.342535017011111
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -91.68,
+                    "distance": 2.078773285798317
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -84.8,
+                    "distance": 1.395130512733116
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -64.42,
+                    "distance": 0.20322268239392044
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -81.64,
+                    "distance": 2.183699607852151
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.14642252884373,
+                    "distance": 2.5680485992622266
+                }
+            ]
+        },
+        {
+            "x-coord": 52,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.24489795918367,
+                    "distance": 2.280270870282383
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.28,
+                    "distance": 2.0290894576048486
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -94.74468085106383,
+                    "distance": 2.4583861050638682
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -92.12,
+                    "distance": 2.4501253370953804
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -79.62,
+                    "distance": 1.0860815786777485
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -59.68,
+                    "distance": 0.43237736312711866
+                }
+            ]
+        },
+        {
+            "x-coord": 52,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.6734693877551,
+                    "distance": 2.3405237541405266
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -96.87755102040816,
+                    "distance": 2.800943680434646
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -92.88,
+                    "distance": 2.142606446578219
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.32,
+                    "distance": 2.559397534937358
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -79.14,
+                    "distance": 1.1625779596427517
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -64.24,
+                    "distance": 0.738497403361512
+                }
+            ]
+        },
+        {
+            "x-coord": 53,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.46,
+                    "distance": 2.266109579072982
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -94.53333333333333,
+                    "distance": 2.4451524509485676
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.02,
+                    "distance": 1.9508830615176873
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.34693877551021,
+                    "distance": 2.606685198278946
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -81.2,
+                    "distance": 1.188571425319904
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -63.76,
+                    "distance": 0.5688458351651922
+                }
+            ]
+        },
+        {
+            "x-coord": 54,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -92.24,
+                    "distance": 2.209450372180211
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -87.76,
+                    "distance": 1.6507676267305609
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -96.85714285714286,
+                    "distance": 2.6372733424843915
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.96,
+                    "distance": 2.459381055950105
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -79.72,
+                    "distance": 1.1546846438830372
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -55.54,
+                    "distance": 0.15363457156010107
+                }
+            ]
+        },
+        {
+            "x-coord": 54,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.36,
+                    "distance": 2.3629213477283355
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -93.1,
+                    "distance": 2.2055328074967724
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -96.73170731707317,
+                    "distance": 2.7020832281532576
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -94.77551020408163,
+                    "distance": 2.865775970051542
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -81.58,
+                    "distance": 1.2330841037176459
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -56.62,
+                    "distance": 0.14891690452424436
+                }
+            ]
+        },
+        {
+            "x-coord": 55,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.16,
+                    "distance": 2.248923986344745
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.86,
+                    "distance": 2.0849534873456186
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -95.68085106382979,
+                    "distance": 2.6176077373389
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.57142857142857,
+                    "distance": 2.8713323825252757
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -82.38,
+                    "distance": 1.2984717334501994
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -51.32,
+                    "distance": 0.08945188583450633
+                }
+            ]
+        },
+        {
+            "x-coord": 56,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.7,
+                    "distance": 1.9396909987448203
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -88.46,
+                    "distance": 1.7803175537029567
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -96.1590909090909,
+                    "distance": 2.57918169637296
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.68,
+                    "distance": 2.458999035686954
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -84.24,
+                    "distance": 1.2927604321092172
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -59.5,
+                    "distance": 0.2728049026083047
+                }
+            ]
+        },
+        {
+            "x-coord": 56,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.89795918367346,
+                    "distance": 2.2832008323603583
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -92.1875,
+                    "distance": 2.100498942270354
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -94.4,
+                    "distance": 2.4104229395662444
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -77.06,
+                    "distance": 0.9352134071711136
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -49.7,
+                    "distance": 0.04280426032265744
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -95.575,
+                    "distance": 2.977481851317193
+                }
+            ]
+        },
+        {
+            "x-coord": 57,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -95.44186046511628,
+                    "distance": 2.4588566829112932
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -92.88888888888889,
+                    "distance": 2.2181695799877943
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.12244897959184,
+                    "distance": 1.9894243719910039
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -93.63829787234043,
+                    "distance": 2.634464036436121
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -83.22,
+                    "distance": 1.3002542158485009
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -64.82,
+                    "distance": 0.886329043946636
+                }
+            ]
+        },
+        {
+            "x-coord": 58,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -90.04255319148936,
+                    "distance": 1.8154480913664217
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -88.85106382978724,
+                    "distance": 1.7801812612244725
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -95.16666666666667,
+                    "distance": 2.4376361277872465
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -92.91111111111111,
+                    "distance": 2.5132564499634746
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -86.27906976744185,
+                    "distance": 1.4861971559973972
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -61.87755102040816,
+                    "distance": 0.5404650876252131
+                }
+            ]
+        },
+        {
+            "x-coord": 58,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.72,
+                    "distance": 2.455055855448143
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -95.42553191489361,
+                    "distance": 2.4933102314356517
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -96.25,
+                    "distance": 2.7346156222453857
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -96.4,
+                    "distance": 3.1796596151295082
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -88.4,
+                    "distance": 1.6517621447761635
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -70.26,
+                    "distance": 1.1326495205251783
+                }
+            ]
+        },
+        {
+            "x-coord": 59,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -94.38,
+                    "distance": 2.3165044505420833
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -92.74,
+                    "distance": 2.2288492284941315
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -97.4054054054054,
+                    "distance": 2.7909121009219313
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -94.44897959183673,
+                    "distance": 2.812094188149003
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -85.22,
+                    "distance": 1.4447736925733545
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -65.8,
+                    "distance": 0.7969776108203835
+                }
+            ]
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -86.7,
+                    "distance": 1.5591517789213316
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -94.14,
+                    "distance": 2.295220293331016
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -87.32,
+                    "distance": 1.6565469430851834
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -59.14,
+                    "distance": 0.11571374925978746
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -91.38,
+                    "distance": 1.9970838581166068
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.56,
+                    "distance": 3.3113439369571642
+                }
+            ]
+        },
+        {
+            "x-coord": 6,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -82.44,
+                    "distance": 1.273793164019156
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -91.26,
+                    "distance": 2.0552481204789705
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -86.82,
+                    "distance": 1.5982454481799278
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -64.52,
+                    "distance": 0.2682013955833873
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -93.26,
+                    "distance": 2.316422982720171
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -86.92,
+                    "distance": 3.1116684980213205
+                }
+            ]
+        },
+        {
+            "x-coord": 6,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -85.12,
+                    "distance": 1.4345220911100371
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -84.52,
+                    "distance": 1.3858645973842585
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -94.2,
+                    "distance": 2.344655320903485
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -57.68,
+                    "distance": 0.0720371047170883
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -91.08,
+                    "distance": 2.001611265222825
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -84.36,
+                    "distance": 2.523981016023036
+                }
+            ]
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -80.48,
+                    "distance": 1.1583419985391523
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -84.48,
+                    "distance": 1.3733888973969157
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -94.1,
+                    "distance": 2.4044431578028527
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -63.18,
+                    "distance": 0.19613909927765272
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -92.78,
+                    "distance": 2.1565538618165747
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -87.62,
+                    "distance": 3.345366606445667
+                }
+            ]
+        },
+        {
+            "x-coord": 8,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -75.02,
+                    "distance": 0.943889246547252
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -84.54,
+                    "distance": 1.4762263119637096
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -89.58,
+                    "distance": 2.016851222261118
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -71.66,
+                    "distance": 0.706840774717526
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -93.70212765957447,
+                    "distance": 2.3247119057577925
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -87.72,
+                    "distance": 3.072744504311532
+                }
+            ]
+        },
+        {
+            "x-coord": 8,
+            "y-coord": 5,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -78.9,
+                    "distance": 1.1996664736415061
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -89.34,
+                    "distance": 1.8776054982923183
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -86.22,
+                    "distance": 1.4929015034294055
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -65.26,
+                    "distance": 0.24978083272904109
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -94.22,
+                    "distance": 2.3404593424323967
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -88.5,
+                    "distance": 3.338984904518436
+                }
+            ]
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -70.82,
+                    "distance": 0.5567132771832807
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -85.84,
+                    "distance": 1.5506838882020455
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -85.86,
+                    "distance": 1.5431234468327488
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -69.18,
+                    "distance": 0.5142996852512769
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -93.46,
+                    "distance": 2.2897609081034562
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -90.38775510204081,
+                    "distance": 3.6183357840958097
+                }
+            ]
+        },
+        {
+            "x-coord": 24,
+            "y-coord": 1,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -82.4,
+                    "distance": 1.2331371965141051
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -84.96,
+                    "distance": 1.4666514779435034
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -47.7,
+                    "distance": 0.009387714523782982
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -89.58,
+                    "distance": 2.0248844149475116
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -86.86,
+                    "distance": 1.5796040003347342
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -84.94,
+                    "distance": 2.865478541681561
+                }
+            ]
+        },
+        {
+            "x-coord": 43,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -93.64583333333333,
+                    "distance": 2.2821565655525835
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -83.26,
+                    "distance": 1.256313676522409
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -92.34,
+                    "distance": 2.1471784309280437
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.98,
+                    "distance": 2.4074276518892397
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -60.0,
+                    "distance": 0.08914459520858936
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -78.08,
+                    "distance": 1.706533960544092
+                }
+            ]
+        },
+        {
+            "x-coord": 51,
+            "y-coord": 3,
+            "beaconData": [
+                {
+                    "id3": 2,
+                    "address": "0C:F3:EE:B5:B2:9E",
+                    "rssi": -92.47916666666667,
+                    "distance": 2.0186419683098866
+                },
+                {
+                    "id3": 4,
+                    "address": "0C:F3:EE:B5:BB:20",
+                    "rssi": -88.7,
+                    "distance": 1.736169675393164
+                },
+                {
+                    "id3": 3,
+                    "address": "0C:F3:EE:B5:BB:22",
+                    "rssi": -93.72,
+                    "distance": 2.401839733596424
+                },
+                {
+                    "id3": 1,
+                    "address": "0C:F3:EE:B5:B3:B9",
+                    "rssi": -91.48,
+                    "distance": 2.3333994493615373
+                },
+                {
+                    "id3": 5,
+                    "address": "0C:F3:EE:B5:BB:10",
+                    "rssi": -82.34,
+                    "distance": 1.1676742635981523
+                },
+                {
+                    "id3": 6,
+                    "address": "0C:F3:EE:B5:BB:3F",
+                    "rssi": -66.28,
+                    "distance": 0.8461962740509239
+                }
+            ]
+        }
+    ]
+}
