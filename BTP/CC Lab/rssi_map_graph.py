@@ -15,7 +15,7 @@ if not(os.path.isdir(save_path)) :
 	os.mkdir(save_path)
 
 noOfBeacons = 10
-noOfTilesX = 18
+noOfTilesX = 19
 noOfTilesY = 19
 beacon_data = {}
 
