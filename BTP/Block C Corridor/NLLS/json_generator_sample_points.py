@@ -92,7 +92,7 @@ def generate_json(data_dir, filterNameBLE, filterNameMag, kalmanRBLE, kalmanRMag
 		f.write(json_data)
 
 data_dir = os.getcwd() + "/sample-points-readings/"
-noOfBeacons = 10
+noOfBeacons = 6
 filterNameBLE = "raw"
 filterNameMag = "raw"
 kalmanRBLE = 0.008

@@ -1,0 +1,158 @@
+{
+    "error-coord": [
+        {
+            "x-coord": 19,
+            "y-coord": 34,
+            "errx-ble": 1.05,
+            "erry-ble": 1.05,
+            "err-ble": 1.4849242404917498
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 26,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.3,
+            "err-ble": 0.9486832980505137
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 18,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 3.3,
+            "err-ble": 4.263801121065568
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 2,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.6,
+            "err-ble": 1.0816653826391966
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 26,
+            "errx-ble": 0.3,
+            "erry-ble": 0.8999999999999999,
+            "err-ble": 0.9486832980505137
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 26,
+            "errx-ble": 1.2,
+            "erry-ble": 0.15,
+            "err-ble": 1.2093386622447824
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 10,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 2,
+            "errx-ble": 0.15,
+            "erry-ble": 0.6,
+            "err-ble": 0.6184658438426491
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 34,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 1.0062305898749053
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 18,
+            "errx-ble": 0.15,
+            "erry-ble": 0.3,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 2,
+            "errx-ble": 3.0,
+            "erry-ble": 5.1,
+            "err-ble": 5.9169248769948055
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.0,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 10,
+            "errx-ble": 0.3,
+            "erry-ble": 0.6,
+            "err-ble": 0.6708203932499369
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 40,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 0.8999999999999999,
+            "err-ble": 2.846049894151541
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 10,
+            "errx-ble": 2.1,
+            "erry-ble": 1.3499999999999999,
+            "err-ble": 2.496497546563986
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 10,
+            "errx-ble": 1.5,
+            "erry-ble": 1.7999999999999998,
+            "err-ble": 2.3430749027719964
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.5408326913195983
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 18,
+            "errx-ble": 0.15,
+            "erry-ble": 1.3499999999999999,
+            "err-ble": 1.3583077707206124
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 40,
+            "errx-ble": 0.6,
+            "erry-ble": 0.15,
+            "err-ble": 0.6184658438426491
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.15,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.15,
+            "err-ble": 0.15
+        }
+    ],
+    "mae-ble": 1.404776599374092,
+    "rmse-ble-x": 1.309716436049095,
+    "rmse-ble-y": 1.5163395774976376,
+    "max-error-ble": 5.9169248769948055,
+    "min-error-ble": 0.15,
+    "fd": 8,
+    "filter": "kalman"
+}

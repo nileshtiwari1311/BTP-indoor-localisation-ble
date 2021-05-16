@@ -1,0 +1,158 @@
+{
+    "error-coord": [
+        {
+            "x-coord": 19,
+            "y-coord": 34,
+            "errx-ble": 2.1,
+            "erry-ble": 0.15,
+            "err-ble": 2.10535032714273
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 26,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.75,
+            "err-ble": 1.1715374513859982
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 18,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 4.2,
+            "err-ble": 4.992995093127972
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 2,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.6,
+            "err-ble": 1.0816653826391966
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 26,
+            "errx-ble": 0.3,
+            "erry-ble": 0.75,
+            "err-ble": 0.8077747210701756
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 26,
+            "errx-ble": 1.3499999999999999,
+            "erry-ble": 0.75,
+            "err-ble": 1.54434452114805
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 10,
+            "errx-ble": 0.0,
+            "erry-ble": 0.0,
+            "err-ble": 0.0
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 2,
+            "errx-ble": 0.0,
+            "erry-ble": 0.6,
+            "err-ble": 0.6
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 34,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.15,
+            "err-ble": 0.9124143795447328
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 18,
+            "errx-ble": 0.15,
+            "erry-ble": 0.3,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 2,
+            "errx-ble": 3.0,
+            "erry-ble": 5.7,
+            "err-ble": 6.441273166075167
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.0,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 10,
+            "errx-ble": 0.0,
+            "erry-ble": 0.3,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 40,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 0.0,
+            "err-ble": 2.6999999999999997
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 10,
+            "errx-ble": 1.95,
+            "erry-ble": 1.7999999999999998,
+            "err-ble": 2.6537709019431195
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 10,
+            "errx-ble": 1.95,
+            "erry-ble": 1.7999999999999998,
+            "err-ble": 2.6537709019431195
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.3,
+            "err-ble": 0.4242640687119285
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 18,
+            "errx-ble": 0.6,
+            "erry-ble": 1.65,
+            "err-ble": 1.7557049866079437
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 40,
+            "errx-ble": 0.44999999999999996,
+            "erry-ble": 0.0,
+            "err-ble": 0.44999999999999996
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.3,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.75,
+            "err-ble": 0.75
+        }
+    ],
+    "mae-ble": 1.5371560046650048,
+    "rmse-ble-x": 1.3921976460669245,
+    "rmse-ble-y": 1.7280252974338741,
+    "max-error-ble": 6.441273166075167,
+    "min-error-ble": 0.0,
+    "fd": 9,
+    "filter": "raw"
+}

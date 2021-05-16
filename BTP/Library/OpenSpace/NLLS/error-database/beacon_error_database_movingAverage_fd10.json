@@ -1,0 +1,158 @@
+{
+    "error-coord": [
+        {
+            "x-coord": 19,
+            "y-coord": 34,
+            "errx-ble": 2.1,
+            "erry-ble": 0.15,
+            "err-ble": 2.10535032714273
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 26,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 2.4,
+            "err-ble": 2.563201123595259
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 18,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 4.8,
+            "err-ble": 5.5072679252057455
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 2,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.6,
+            "err-ble": 1.0816653826391966
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 26,
+            "errx-ble": 0.3,
+            "erry-ble": 0.8999999999999999,
+            "err-ble": 0.9486832980505137
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 26,
+            "errx-ble": 1.2,
+            "erry-ble": 1.3499999999999999,
+            "err-ble": 1.806239186818844
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 10,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 2,
+            "errx-ble": 0.15,
+            "erry-ble": 0.6,
+            "err-ble": 0.6184658438426491
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 34,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.15,
+            "err-ble": 0.9124143795447328
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 18,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 2,
+            "errx-ble": 3.15,
+            "erry-ble": 6.0,
+            "err-ble": 6.776614198845911
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 34,
+            "errx-ble": 0.44999999999999996,
+            "erry-ble": 0.15,
+            "err-ble": 0.47434164902525683
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 10,
+            "errx-ble": 0.0,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.44999999999999996
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 40,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 0.0,
+            "err-ble": 2.6999999999999997
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 10,
+            "errx-ble": 1.95,
+            "erry-ble": 1.95,
+            "err-ble": 2.7577164466275352
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 10,
+            "errx-ble": 1.7999999999999998,
+            "erry-ble": 1.65,
+            "err-ble": 2.4418230894149557
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.15,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 18,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 1.7999999999999998,
+            "err-ble": 2.0124611797498106
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 40,
+            "errx-ble": 0.6,
+            "erry-ble": 0.0,
+            "err-ble": 0.6
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.15,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 26,
+            "errx-ble": 0.15,
+            "erry-ble": 1.2,
+            "err-ble": 1.2093386622447824
+        }
+    ],
+    "mae-ble": 1.7083455694326104,
+    "rmse-ble-x": 1.4052198607843747,
+    "rmse-ble-y": 1.9483509510792523,
+    "max-error-ble": 6.776614198845911,
+    "min-error-ble": 0.15,
+    "fd": 10,
+    "filter": "movingAverage"
+}

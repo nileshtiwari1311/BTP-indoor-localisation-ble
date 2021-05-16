@@ -1,0 +1,158 @@
+{
+    "error-coord": [
+        {
+            "x-coord": 19,
+            "y-coord": 34,
+            "errx-ble": 1.2,
+            "erry-ble": 0.6,
+            "err-ble": 1.3416407864998738
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 26,
+            "errx-ble": 1.05,
+            "erry-ble": 2.55,
+            "err-ble": 2.7577164466275352
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 18,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 3.9,
+            "err-ble": 4.743416490252569
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 2,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.6,
+            "err-ble": 1.0816653826391966
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 26,
+            "errx-ble": 1.5,
+            "erry-ble": 1.5,
+            "err-ble": 2.1213203435596424
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 26,
+            "errx-ble": 1.2,
+            "erry-ble": 0.3,
+            "err-ble": 1.2369316876852983
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 10,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 2,
+            "errx-ble": 0.15,
+            "erry-ble": 0.6,
+            "err-ble": 0.6184658438426491
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.15,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 18,
+            "errx-ble": 0.0,
+            "erry-ble": 0.15,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 2,
+            "errx-ble": 2.4,
+            "erry-ble": 1.65,
+            "err-ble": 2.91247317584214
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 34,
+            "errx-ble": 0.15,
+            "erry-ble": 0.0,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 10,
+            "errx-ble": 0.0,
+            "erry-ble": 0.3,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 40,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 1.3499999999999999,
+            "err-ble": 3.0186917696247155
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 10,
+            "errx-ble": 1.3499999999999999,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 1.4230249470757705
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 10,
+            "errx-ble": 1.3499999999999999,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 1.4230249470757705
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.0,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 18,
+            "errx-ble": 0.3,
+            "erry-ble": 2.55,
+            "err-ble": 2.5675864152935532
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 40,
+            "errx-ble": 0.15,
+            "erry-ble": 0.0,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 26,
+            "errx-ble": 0.15,
+            "erry-ble": 0.0,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.44999999999999996
+        }
+    ],
+    "mae-ble": 1.3068333555714116,
+    "rmse-ble-x": 1.222993984332828,
+    "rmse-ble-y": 1.3263806822649802,
+    "max-error-ble": 4.743416490252569,
+    "min-error-ble": 0.15,
+    "fd": 3,
+    "filter": "raw"
+}

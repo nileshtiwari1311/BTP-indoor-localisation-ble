@@ -3,7 +3,7 @@ import os
 import glob
 
 noOfBeacons = 6
-noOfRefPoints = 10
+noOfRefPoints = 18
 
 for filterMethod in ["raw", "kalman", "movingAverage"] :
 	for fd in range(3, noOfBeacons+1) :

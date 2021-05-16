@@ -1,0 +1,165 @@
+{
+    "error-coord": [
+        {
+            "x-coord": 23,
+            "y-coord": 53,
+            "errx-ble": 0.6,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.75
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 53,
+            "errx-ble": 0.3,
+            "erry-ble": 0.3,
+            "err-ble": 0.4242640687119285
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 57,
+            "errx-ble": 0.3,
+            "erry-ble": 0.3,
+            "err-ble": 0.4242640687119285
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 53,
+            "errx-ble": 2.1,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 2.147673159491453
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 49,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.0,
+            "err-ble": 0.8999999999999999
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 53,
+            "errx-ble": 0.3,
+            "erry-ble": 0.15,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 57,
+            "errx-ble": 0.0,
+            "erry-ble": 0.15,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 53,
+            "errx-ble": 4.5,
+            "erry-ble": 2.6999999999999997,
+            "err-ble": 5.24785670536077
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 57,
+            "errx-ble": 2.1,
+            "erry-ble": 0.3,
+            "err-ble": 2.1213203435596424
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 49,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 49,
+            "errx-ble": 1.5,
+            "erry-ble": 0.6,
+            "err-ble": 1.6155494421403511
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 57,
+            "errx-ble": 0.15,
+            "erry-ble": 0.3,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 53,
+            "errx-ble": 0.6,
+            "erry-ble": 0.3,
+            "err-ble": 0.6708203932499369
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 49,
+            "errx-ble": 0.0,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.44999999999999996
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 49,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 23,
+            "y-coord": 45,
+            "errx-ble": 1.5,
+            "erry-ble": 0.3,
+            "err-ble": 1.5297058540778354
+        },
+        {
+            "x-coord": 23,
+            "y-coord": 49,
+            "errx-ble": 0.44999999999999996,
+            "erry-ble": 0.0,
+            "err-ble": 0.44999999999999996
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 45,
+            "errx-ble": 0.0,
+            "erry-ble": 0.6,
+            "err-ble": 0.6
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 49,
+            "errx-ble": 0.3,
+            "erry-ble": 0.3,
+            "err-ble": 0.4242640687119285
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 45,
+            "errx-ble": 1.95,
+            "erry-ble": 1.3499999999999999,
+            "err-ble": 2.3717082451262845
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 53,
+            "errx-ble": 0.3,
+            "erry-ble": 0.3,
+            "err-ble": 0.4242640687119285
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 45,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        }
+    ],
+    "mae-ble": 1.0004048597350825,
+    "rmse-ble-x": 1.3424028659629177,
+    "rmse-ble-y": 0.7158116816847596,
+    "max-error-ble": 5.24785670536077,
+    "min-error-ble": 0.15,
+    "fd": 4,
+    "filter": "kalman"
+}

@@ -17,8 +17,6 @@ for filterMethod in ["raw", "kalman", "movingAverage"] :
 		sum_square_error_y_ble = 0
 
 		count_error = 0
-		filterMethod = "raw"
-		fd = 8
 
 		scaleX = 0.3
 		scaleY = 0.3
