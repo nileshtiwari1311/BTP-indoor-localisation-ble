@@ -5,12 +5,30 @@ import os
 
 filterMethod = "raw"
 
+parameter_dir = os.getcwd() + "/Path-Loss-Model/"
+f = open(os.path.join(parameter_dir, "path_loss_parameters.json"), "r")
+data = json.load(f)
+f.close()
+
+noOfBeacons = 6
+#  beacons ka position
+xi = [5,15,25,35,45,55]
+yi = [0,6,0,6,0,6]
+
+ai = [0 for i in range(noOfBeacons)]
+bi = [0 for i in range(noOfBeacons)]
+
+for it in data["model"]["parameters"] :
+	id3 = it["id3"]
+	ai[id3-1] = it["a"]
+	bi[id3-1] = it["b"]
+
 data_dir = os.getcwd() + "/beacon-all-points-" + filterMethod + "/"
 f = open(os.path.join(data_dir, "beacon.json"),"r")
 data = json.load(f)
 f.close()
 
-save_path = os.getcwd() + "/Graphs/rssi_map_discrete/"
+save_path = os.getcwd() + "/Graphs/rssi_map_continuous/"
 if not(os.path.isdir(save_path)) : 
 	os.mkdir(save_path)
 
@@ -18,6 +36,9 @@ noOfBeacons = 6
 noOfTilesX = 60
 noOfTilesY = 3
 beacon_data = {}
+
+scaleX = 0.6
+scaleY = 0.3
 
 for it in data["beacon"]:
 	x_coord = it["x-coord"]
@@ -35,11 +56,23 @@ for beaconNo in range(1, noOfBeacons+1) :
 	for data_point in beacon_data :
 		Matrix[data_point[1]//2][data_point[0]] = beacon_data[data_point][beaconNo]
 
+	for i in range(h) :
+		for j in range(w) :
+			if np.isnan(Matrix[i][j]) :
+				x_coord = j
+				y_coord = i*2 + 1
+				distance = (((x_coord-xi[beaconNo-1])*scaleX)**2 + ((y_coord-yi[beaconNo-1])*scaleY)**2)**(0.5)
+				distance = round(distance, 2)
+				rssi_new = ai[beaconNo-1] + bi[beaconNo-1]*np.log10(distance)
+				Matrix[i][j] = rssi_new
+
 	rssi_map = np.array(Matrix)
 	plt.figure(figsize=(16, 10))
-	plt.title("Signal strength map (discrete) of beacon " + str(beaconNo) + " located at (" + str(10*beaconNo-5) + ", " + str(0 if beaconNo%2==1 else 3) + ")\n")
-	plt.yticks([i for i in range(1, h+1)])
-	plt.xticks([i for i in range(1, w+1)], rotation=60)
+	# plt.title("Signal strength map (discrete) of beacon " + str(beaconNo) + " located at (" + str(10*beaconNo-5) + ", " + str(0 if beaconNo%2==1 else 3) + ")\n")
+	# plt.yticks([i for i in range(1, h+1)])
+	# plt.xticks([i for i in range(1, w+1)], rotation=60)
+	plt.tick_params(axis='y', which='both', right=False, left=False, labelleft=False)
+	plt.tick_params(axis='x', which='both', bottom=False, top=False, left=False, labelbottom=False)
 	plt.imshow(rssi_map, cmap='hot', interpolation='nearest', extent=[0,w,h,0])
 	plt.colorbar(orientation='horizontal')
 	plt.clim(-100, -40)

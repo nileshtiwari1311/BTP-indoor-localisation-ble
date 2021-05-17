@@ -2,6 +2,7 @@ from matplotlib import pyplot as plt
 import json
 import os
 from filters import kalman
+from filters import movingAverage
 
 kalmanR = 0.008
 kalmanQ = 1.0
@@ -27,16 +28,26 @@ for sample in data["beaconReadings"] :
 
 for beaconNo in range(1, noOfBeacons+1) :
 	plt.figure(figsize=(16, 10))
-	plt.title("RSSI vs Sampling times")
-	plt.xlabel("Sampling times") 
-	plt.ylabel("RSSI in dBm")
+	# plt.title("RSSI vs Sampling times")
+	plt.xlabel("Sampling times",fontsize=20) 
+	plt.ylabel("RSSI in dBm",fontsize=20)
+	plt.xticks(fontsize=20)
+	plt.yticks(fontsize=20)
+	plt.xlim([0, len(rssi_dict[beaconNo])+1])
+	plt.ylim([-100, -49])
 	kalmanFilter = kalman.KalmanFilter(kalmanR, kalmanQ)
-	filteredRSSI = []
+	kalmanRSSI = []
 	for rssi in rssi_dict[beaconNo] :
-		filteredRSSI.append(kalmanFilter.filter(rssi))
+		kalmanRSSI.append(kalmanFilter.filter(rssi))
+	movingAverageFilter = movingAverage.MovingAverageFilter(5)
+	moving_list = []
+	for rssi in rssi_dict[beaconNo] :
+		moving_list.append(movingAverageFilter.filter(rssi))
+	plt.grid()
 	plt.plot([x for x in range(1, len(rssi_dict[beaconNo])+1)], rssi_dict[beaconNo], "-ob")
-	plt.plot([x for x in range(1, len(rssi_dict[beaconNo])+1)], filteredRSSI, "-og")
-	plt.legend(["Raw","Kalman Filter"])
+	plt.plot([x for x in range(1, len(rssi_dict[beaconNo])+1)], kalmanRSSI, "-or")
+	plt.plot([x for x in range(1, len(rssi_dict[beaconNo])+1)], moving_list, "-og")
+	plt.legend(["Raw","Kalman","Moving Average"], fontsize=20)
 	# plt.show()
 	filename = os.path.join(save_path, "rssi_vs_sampling_times_" + str(beaconNo))
 	plt.savefig(filename, dpi=200, bbox_inches='tight')

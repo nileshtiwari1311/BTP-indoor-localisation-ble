@@ -1,0 +1,1142 @@
+{
+    "1": [
+        {
+            "rssi": -34.68,
+            "distance": 0.1
+        },
+        {
+            "rssi": -45.48,
+            "distance": 0.2
+        },
+        {
+            "rssi": -45.86,
+            "distance": 0.3
+        },
+        {
+            "rssi": -54.05,
+            "distance": 0.4
+        },
+        {
+            "rssi": -54.77,
+            "distance": 0.5
+        },
+        {
+            "rssi": -57.2,
+            "distance": 0.6
+        },
+        {
+            "rssi": -59.92,
+            "distance": 0.7
+        },
+        {
+            "rssi": -57.57,
+            "distance": 0.8
+        },
+        {
+            "rssi": -57.78,
+            "distance": 0.9
+        },
+        {
+            "rssi": -60.58,
+            "distance": 1.0
+        },
+        {
+            "rssi": -66.16,
+            "distance": 1.5
+        },
+        {
+            "rssi": -64.95,
+            "distance": 2.0
+        },
+        {
+            "rssi": -71.64,
+            "distance": 2.5
+        },
+        {
+            "rssi": -70.64,
+            "distance": 3.0
+        },
+        {
+            "rssi": -72.87,
+            "distance": 3.5
+        },
+        {
+            "rssi": -75.68,
+            "distance": 4.0
+        },
+        {
+            "rssi": -78.8,
+            "distance": 4.5
+        },
+        {
+            "rssi": -76.8,
+            "distance": 5.0
+        },
+        {
+            "rssi": -75.88,
+            "distance": 5.5
+        },
+        {
+            "rssi": -76.9,
+            "distance": 6.0
+        },
+        {
+            "rssi": -77.81,
+            "distance": 6.5
+        },
+        {
+            "rssi": -79.76,
+            "distance": 7.0
+        },
+        {
+            "rssi": -81.3,
+            "distance": 7.5
+        },
+        {
+            "rssi": -82.38,
+            "distance": 8.0
+        },
+        {
+            "rssi": -79.43,
+            "distance": 8.5
+        },
+        {
+            "rssi": -84.35,
+            "distance": 9.0
+        },
+        {
+            "rssi": -84.17,
+            "distance": 9.5
+        },
+        {
+            "rssi": -81.89,
+            "distance": 10.0
+        }
+    ],
+    "2": [
+        {
+            "rssi": -40.27,
+            "distance": 0.1
+        },
+        {
+            "rssi": -44.68,
+            "distance": 0.2
+        },
+        {
+            "rssi": -50.96,
+            "distance": 0.3
+        },
+        {
+            "rssi": -49.29,
+            "distance": 0.4
+        },
+        {
+            "rssi": -56.99,
+            "distance": 0.5
+        },
+        {
+            "rssi": -57.04,
+            "distance": 0.6
+        },
+        {
+            "rssi": -56.3,
+            "distance": 0.7
+        },
+        {
+            "rssi": -59.8,
+            "distance": 0.8
+        },
+        {
+            "rssi": -62.29,
+            "distance": 0.9
+        },
+        {
+            "rssi": -60.89,
+            "distance": 1.0
+        },
+        {
+            "rssi": -62.59,
+            "distance": 1.5
+        },
+        {
+            "rssi": -71.22,
+            "distance": 2.0
+        },
+        {
+            "rssi": -70.54,
+            "distance": 2.5
+        },
+        {
+            "rssi": -74.22,
+            "distance": 3.0
+        },
+        {
+            "rssi": -77.0,
+            "distance": 3.5
+        },
+        {
+            "rssi": -75.84,
+            "distance": 4.0
+        },
+        {
+            "rssi": -75.55,
+            "distance": 4.5
+        },
+        {
+            "rssi": -78.4,
+            "distance": 5.0
+        },
+        {
+            "rssi": -77.78,
+            "distance": 5.5
+        },
+        {
+            "rssi": -83.15,
+            "distance": 6.0
+        },
+        {
+            "rssi": -81.16,
+            "distance": 6.5
+        },
+        {
+            "rssi": -78.4,
+            "distance": 7.0
+        },
+        {
+            "rssi": -83.54,
+            "distance": 7.5
+        },
+        {
+            "rssi": -82.29,
+            "distance": 8.0
+        },
+        {
+            "rssi": -80.92,
+            "distance": 8.5
+        },
+        {
+            "rssi": -84.07,
+            "distance": 9.0
+        },
+        {
+            "rssi": -82.68,
+            "distance": 9.5
+        },
+        {
+            "rssi": -83.23,
+            "distance": 10.0
+        }
+    ],
+    "3": [
+        {
+            "rssi": -33.98,
+            "distance": 0.1
+        },
+        {
+            "rssi": -40.08,
+            "distance": 0.2
+        },
+        {
+            "rssi": -45.97,
+            "distance": 0.3
+        },
+        {
+            "rssi": -49.26,
+            "distance": 0.4
+        },
+        {
+            "rssi": -52.04,
+            "distance": 0.5
+        },
+        {
+            "rssi": -55.74,
+            "distance": 0.6
+        },
+        {
+            "rssi": -54.15,
+            "distance": 0.7
+        },
+        {
+            "rssi": -56.87,
+            "distance": 0.8
+        },
+        {
+            "rssi": -58.95,
+            "distance": 0.9
+        },
+        {
+            "rssi": -59.33,
+            "distance": 1.0
+        },
+        {
+            "rssi": -62.81,
+            "distance": 1.5
+        },
+        {
+            "rssi": -65.85,
+            "distance": 2.0
+        },
+        {
+            "rssi": -70.91,
+            "distance": 2.5
+        },
+        {
+            "rssi": -70.77,
+            "distance": 3.0
+        },
+        {
+            "rssi": -70.14,
+            "distance": 3.5
+        },
+        {
+            "rssi": -75.11,
+            "distance": 4.0
+        },
+        {
+            "rssi": -74.88,
+            "distance": 4.5
+        },
+        {
+            "rssi": -78.73,
+            "distance": 5.0
+        },
+        {
+            "rssi": -77.05,
+            "distance": 5.5
+        },
+        {
+            "rssi": -79.53,
+            "distance": 6.0
+        },
+        {
+            "rssi": -79.52,
+            "distance": 6.5
+        },
+        {
+            "rssi": -80.53,
+            "distance": 7.0
+        },
+        {
+            "rssi": -80.68,
+            "distance": 7.5
+        },
+        {
+            "rssi": -81.9,
+            "distance": 8.0
+        },
+        {
+            "rssi": -81.09,
+            "distance": 8.5
+        },
+        {
+            "rssi": -84.76,
+            "distance": 9.0
+        },
+        {
+            "rssi": -85.35,
+            "distance": 9.5
+        },
+        {
+            "rssi": -86.4,
+            "distance": 10.0
+        }
+    ],
+    "4": [
+        {
+            "rssi": -34.65,
+            "distance": 0.1
+        },
+        {
+            "rssi": -44.04,
+            "distance": 0.2
+        },
+        {
+            "rssi": -48.9,
+            "distance": 0.3
+        },
+        {
+            "rssi": -50.13,
+            "distance": 0.4
+        },
+        {
+            "rssi": -46.74,
+            "distance": 0.5
+        },
+        {
+            "rssi": -54.83,
+            "distance": 0.6
+        },
+        {
+            "rssi": -54.8,
+            "distance": 0.7
+        },
+        {
+            "rssi": -57.0,
+            "distance": 0.8
+        },
+        {
+            "rssi": -53.85,
+            "distance": 0.9
+        },
+        {
+            "rssi": -59.33,
+            "distance": 1.0
+        },
+        {
+            "rssi": -67.32,
+            "distance": 1.5
+        },
+        {
+            "rssi": -68.57,
+            "distance": 2.0
+        },
+        {
+            "rssi": -65.14,
+            "distance": 2.5
+        },
+        {
+            "rssi": -68.53,
+            "distance": 3.0
+        },
+        {
+            "rssi": -71.62,
+            "distance": 3.5
+        },
+        {
+            "rssi": -76.06,
+            "distance": 4.0
+        },
+        {
+            "rssi": -80.01,
+            "distance": 4.5
+        },
+        {
+            "rssi": -74.81,
+            "distance": 5.0
+        },
+        {
+            "rssi": -78.2,
+            "distance": 5.5
+        },
+        {
+            "rssi": -79.21,
+            "distance": 6.0
+        },
+        {
+            "rssi": -80.78,
+            "distance": 6.5
+        },
+        {
+            "rssi": -80.05,
+            "distance": 7.0
+        },
+        {
+            "rssi": -82.64,
+            "distance": 7.5
+        },
+        {
+            "rssi": -81.37,
+            "distance": 8.0
+        },
+        {
+            "rssi": -84.08,
+            "distance": 8.5
+        },
+        {
+            "rssi": -82.81,
+            "distance": 9.0
+        },
+        {
+            "rssi": -81.8,
+            "distance": 9.5
+        },
+        {
+            "rssi": -83.26,
+            "distance": 10.0
+        }
+    ],
+    "5": [
+        {
+            "rssi": -29.54,
+            "distance": 0.1
+        },
+        {
+            "rssi": -39.01,
+            "distance": 0.2
+        },
+        {
+            "rssi": -42.55,
+            "distance": 0.3
+        },
+        {
+            "rssi": -48.57,
+            "distance": 0.4
+        },
+        {
+            "rssi": -47.92,
+            "distance": 0.5
+        },
+        {
+            "rssi": -54.67,
+            "distance": 0.6
+        },
+        {
+            "rssi": -52.54,
+            "distance": 0.7
+        },
+        {
+            "rssi": -51.77,
+            "distance": 0.8
+        },
+        {
+            "rssi": -54.61,
+            "distance": 0.9
+        },
+        {
+            "rssi": -57.31,
+            "distance": 1.0
+        },
+        {
+            "rssi": -60.79,
+            "distance": 1.5
+        },
+        {
+            "rssi": -64.45,
+            "distance": 2.0
+        },
+        {
+            "rssi": -70.83,
+            "distance": 2.5
+        },
+        {
+            "rssi": -68.75,
+            "distance": 3.0
+        },
+        {
+            "rssi": -70.53,
+            "distance": 3.5
+        },
+        {
+            "rssi": -73.17,
+            "distance": 4.0
+        },
+        {
+            "rssi": -76.09,
+            "distance": 4.5
+        },
+        {
+            "rssi": -73.18,
+            "distance": 5.0
+        },
+        {
+            "rssi": -76.07,
+            "distance": 5.5
+        },
+        {
+            "rssi": -79.03,
+            "distance": 6.0
+        },
+        {
+            "rssi": -79.43,
+            "distance": 6.5
+        },
+        {
+            "rssi": -85.99,
+            "distance": 7.0
+        },
+        {
+            "rssi": -80.71,
+            "distance": 7.5
+        },
+        {
+            "rssi": -78.07,
+            "distance": 8.0
+        },
+        {
+            "rssi": -83.21,
+            "distance": 8.5
+        },
+        {
+            "rssi": -83.72,
+            "distance": 9.0
+        },
+        {
+            "rssi": -82.03,
+            "distance": 9.5
+        },
+        {
+            "rssi": -81.88,
+            "distance": 10.0
+        }
+    ],
+    "6": [
+        {
+            "rssi": -35.09,
+            "distance": 0.1
+        },
+        {
+            "rssi": -45.54,
+            "distance": 0.2
+        },
+        {
+            "rssi": -47.49,
+            "distance": 0.3
+        },
+        {
+            "rssi": -48.62,
+            "distance": 0.4
+        },
+        {
+            "rssi": -50.52,
+            "distance": 0.5
+        },
+        {
+            "rssi": -52.1,
+            "distance": 0.6
+        },
+        {
+            "rssi": -54.24,
+            "distance": 0.7
+        },
+        {
+            "rssi": -55.51,
+            "distance": 0.8
+        },
+        {
+            "rssi": -55.55,
+            "distance": 0.9
+        },
+        {
+            "rssi": -57.14,
+            "distance": 1.0
+        },
+        {
+            "rssi": -63.5,
+            "distance": 1.5
+        },
+        {
+            "rssi": -65.23,
+            "distance": 2.0
+        },
+        {
+            "rssi": -68.3,
+            "distance": 2.5
+        },
+        {
+            "rssi": -69.01,
+            "distance": 3.0
+        },
+        {
+            "rssi": -65.94,
+            "distance": 3.5
+        },
+        {
+            "rssi": -69.05,
+            "distance": 4.0
+        },
+        {
+            "rssi": -73.54,
+            "distance": 4.5
+        },
+        {
+            "rssi": -75.49,
+            "distance": 5.0
+        },
+        {
+            "rssi": -70.89,
+            "distance": 5.5
+        },
+        {
+            "rssi": -72.86,
+            "distance": 6.0
+        },
+        {
+            "rssi": -74.1,
+            "distance": 6.5
+        },
+        {
+            "rssi": -74.69,
+            "distance": 7.0
+        },
+        {
+            "rssi": -73.88,
+            "distance": 7.5
+        },
+        {
+            "rssi": -76.15,
+            "distance": 8.0
+        },
+        {
+            "rssi": -76.88,
+            "distance": 8.5
+        },
+        {
+            "rssi": -77.08,
+            "distance": 9.0
+        },
+        {
+            "rssi": -77.43,
+            "distance": 9.5
+        },
+        {
+            "rssi": -78.09,
+            "distance": 10.0
+        }
+    ],
+    "7": [
+        {
+            "rssi": -35.54,
+            "distance": 0.1
+        },
+        {
+            "rssi": -41.33,
+            "distance": 0.2
+        },
+        {
+            "rssi": -45.03,
+            "distance": 0.3
+        },
+        {
+            "rssi": -46.55,
+            "distance": 0.4
+        },
+        {
+            "rssi": -52.63,
+            "distance": 0.5
+        },
+        {
+            "rssi": -53.98,
+            "distance": 0.6
+        },
+        {
+            "rssi": -55.29,
+            "distance": 0.7
+        },
+        {
+            "rssi": -59.0,
+            "distance": 0.8
+        },
+        {
+            "rssi": -62.14,
+            "distance": 0.9
+        },
+        {
+            "rssi": -60.89,
+            "distance": 1.0
+        },
+        {
+            "rssi": -64.81,
+            "distance": 1.5
+        },
+        {
+            "rssi": -68.29,
+            "distance": 2.0
+        },
+        {
+            "rssi": -74.1,
+            "distance": 2.5
+        },
+        {
+            "rssi": -73.29,
+            "distance": 3.0
+        },
+        {
+            "rssi": -73.69,
+            "distance": 3.5
+        },
+        {
+            "rssi": -77.27,
+            "distance": 4.0
+        },
+        {
+            "rssi": -80.58,
+            "distance": 4.5
+        },
+        {
+            "rssi": -81.36,
+            "distance": 5.0
+        },
+        {
+            "rssi": -78.55,
+            "distance": 5.5
+        },
+        {
+            "rssi": -77.91,
+            "distance": 6.0
+        },
+        {
+            "rssi": -81.49,
+            "distance": 6.5
+        },
+        {
+            "rssi": -82.05,
+            "distance": 7.0
+        },
+        {
+            "rssi": -87.13,
+            "distance": 7.5
+        },
+        {
+            "rssi": -87.87,
+            "distance": 8.0
+        },
+        {
+            "rssi": -81.79,
+            "distance": 8.5
+        },
+        {
+            "rssi": -87.3,
+            "distance": 9.0
+        },
+        {
+            "rssi": -85.98,
+            "distance": 9.5
+        },
+        {
+            "rssi": -88.22,
+            "distance": 10.0
+        }
+    ],
+    "8": [
+        {
+            "rssi": -39.2,
+            "distance": 0.1
+        },
+        {
+            "rssi": -41.27,
+            "distance": 0.2
+        },
+        {
+            "rssi": -48.51,
+            "distance": 0.3
+        },
+        {
+            "rssi": -54.07,
+            "distance": 0.4
+        },
+        {
+            "rssi": -51.08,
+            "distance": 0.5
+        },
+        {
+            "rssi": -58.89,
+            "distance": 0.6
+        },
+        {
+            "rssi": -57.3,
+            "distance": 0.7
+        },
+        {
+            "rssi": -58.4,
+            "distance": 0.8
+        },
+        {
+            "rssi": -56.26,
+            "distance": 0.9
+        },
+        {
+            "rssi": -59.33,
+            "distance": 1.0
+        },
+        {
+            "rssi": -62.77,
+            "distance": 1.5
+        },
+        {
+            "rssi": -67.93,
+            "distance": 2.0
+        },
+        {
+            "rssi": -67.31,
+            "distance": 2.5
+        },
+        {
+            "rssi": -68.41,
+            "distance": 3.0
+        },
+        {
+            "rssi": -71.49,
+            "distance": 3.5
+        },
+        {
+            "rssi": -72.59,
+            "distance": 4.0
+        },
+        {
+            "rssi": -73.56,
+            "distance": 4.5
+        },
+        {
+            "rssi": -76.05,
+            "distance": 5.0
+        },
+        {
+            "rssi": -78.49,
+            "distance": 5.5
+        },
+        {
+            "rssi": -75.65,
+            "distance": 6.0
+        },
+        {
+            "rssi": -77.18,
+            "distance": 6.5
+        },
+        {
+            "rssi": -78.76,
+            "distance": 7.0
+        },
+        {
+            "rssi": -76.7,
+            "distance": 7.5
+        },
+        {
+            "rssi": -78.81,
+            "distance": 8.0
+        },
+        {
+            "rssi": -77.74,
+            "distance": 8.5
+        },
+        {
+            "rssi": -82.19,
+            "distance": 9.0
+        },
+        {
+            "rssi": -77.92,
+            "distance": 9.5
+        },
+        {
+            "rssi": -78.59,
+            "distance": 10.0
+        }
+    ],
+    "9": [
+        {
+            "rssi": -34.85,
+            "distance": 0.1
+        },
+        {
+            "rssi": -41.8,
+            "distance": 0.2
+        },
+        {
+            "rssi": -45.65,
+            "distance": 0.3
+        },
+        {
+            "rssi": -51.96,
+            "distance": 0.4
+        },
+        {
+            "rssi": -53.99,
+            "distance": 0.5
+        },
+        {
+            "rssi": -54.48,
+            "distance": 0.6
+        },
+        {
+            "rssi": -53.02,
+            "distance": 0.7
+        },
+        {
+            "rssi": -58.87,
+            "distance": 0.8
+        },
+        {
+            "rssi": -59.49,
+            "distance": 0.9
+        },
+        {
+            "rssi": -59.33,
+            "distance": 1.0
+        },
+        {
+            "rssi": -66.3,
+            "distance": 1.5
+        },
+        {
+            "rssi": -66.65,
+            "distance": 2.0
+        },
+        {
+            "rssi": -66.24,
+            "distance": 2.5
+        },
+        {
+            "rssi": -70.64,
+            "distance": 3.0
+        },
+        {
+            "rssi": -71.27,
+            "distance": 3.5
+        },
+        {
+            "rssi": -75.95,
+            "distance": 4.0
+        },
+        {
+            "rssi": -74.03,
+            "distance": 4.5
+        },
+        {
+            "rssi": -74.43,
+            "distance": 5.0
+        },
+        {
+            "rssi": -77.95,
+            "distance": 5.5
+        },
+        {
+            "rssi": -76.7,
+            "distance": 6.0
+        },
+        {
+            "rssi": -77.29,
+            "distance": 6.5
+        },
+        {
+            "rssi": -80.4,
+            "distance": 7.0
+        },
+        {
+            "rssi": -78.48,
+            "distance": 7.5
+        },
+        {
+            "rssi": -80.54,
+            "distance": 8.0
+        },
+        {
+            "rssi": -81.89,
+            "distance": 8.5
+        },
+        {
+            "rssi": -83.42,
+            "distance": 9.0
+        },
+        {
+            "rssi": -86.2,
+            "distance": 9.5
+        },
+        {
+            "rssi": -84.08,
+            "distance": 10.0
+        }
+    ],
+    "10": [
+        {
+            "rssi": -28.36,
+            "distance": 0.1
+        },
+        {
+            "rssi": -38.81,
+            "distance": 0.2
+        },
+        {
+            "rssi": -45.08,
+            "distance": 0.3
+        },
+        {
+            "rssi": -49.32,
+            "distance": 0.4
+        },
+        {
+            "rssi": -46.67,
+            "distance": 0.5
+        },
+        {
+            "rssi": -50.3,
+            "distance": 0.6
+        },
+        {
+            "rssi": -53.35,
+            "distance": 0.7
+        },
+        {
+            "rssi": -53.53,
+            "distance": 0.8
+        },
+        {
+            "rssi": -56.77,
+            "distance": 0.9
+        },
+        {
+            "rssi": -57.31,
+            "distance": 1.0
+        },
+        {
+            "rssi": -58.63,
+            "distance": 1.5
+        },
+        {
+            "rssi": -64.73,
+            "distance": 2.0
+        },
+        {
+            "rssi": -65.17,
+            "distance": 2.5
+        },
+        {
+            "rssi": -69.69,
+            "distance": 3.0
+        },
+        {
+            "rssi": -71.58,
+            "distance": 3.5
+        },
+        {
+            "rssi": -74.64,
+            "distance": 4.0
+        },
+        {
+            "rssi": -75.21,
+            "distance": 4.5
+        },
+        {
+            "rssi": -77.45,
+            "distance": 5.0
+        },
+        {
+            "rssi": -77.98,
+            "distance": 5.5
+        },
+        {
+            "rssi": -81.89,
+            "distance": 6.0
+        },
+        {
+            "rssi": -77.76,
+            "distance": 6.5
+        },
+        {
+            "rssi": -81.61,
+            "distance": 7.0
+        },
+        {
+            "rssi": -80.39,
+            "distance": 7.5
+        },
+        {
+            "rssi": -80.63,
+            "distance": 8.0
+        },
+        {
+            "rssi": -86.01,
+            "distance": 8.5
+        },
+        {
+            "rssi": -81.46,
+            "distance": 9.0
+        },
+        {
+            "rssi": -87.55,
+            "distance": 9.5
+        },
+        {
+            "rssi": -77.26,
+            "distance": 10.0
+        }
+    ]
+}

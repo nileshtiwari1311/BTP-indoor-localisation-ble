@@ -1,0 +1,319 @@
+{
+    "error-coord": [
+        {
+            "x-coord": 23,
+            "y-coord": 53,
+            "errx-ble": 0.75,
+            "erry-ble": 0.8999999999999999,
+            "err-ble": 1.1715374513859982
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 53,
+            "errx-ble": 0.3,
+            "erry-ble": 0.6,
+            "err-ble": 0.6708203932499369
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 34,
+            "errx-ble": 1.05,
+            "erry-ble": 0.8999999999999999,
+            "err-ble": 1.382931668593933
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 57,
+            "errx-ble": 0.3,
+            "erry-ble": 0.3,
+            "err-ble": 0.4242640687119285
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 26,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 1.0062305898749053
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 53,
+            "errx-ble": 3.15,
+            "erry-ble": 1.5,
+            "err-ble": 3.488911004883902
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 49,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.15,
+            "err-ble": 0.9124143795447328
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 53,
+            "errx-ble": 0.3,
+            "erry-ble": 0.15,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 18,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 2.6999999999999997,
+            "err-ble": 3.818376618407356
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 2,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.6,
+            "err-ble": 1.0816653826391966
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 57,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 53,
+            "errx-ble": 4.5,
+            "erry-ble": 1.5,
+            "err-ble": 4.743416490252569
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 57,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 0.3,
+            "err-ble": 2.7166155414412247
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 49,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 26,
+            "errx-ble": 0.3,
+            "erry-ble": 1.2,
+            "err-ble": 1.2369316876852983
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 26,
+            "errx-ble": 1.2,
+            "erry-ble": 0.75,
+            "err-ble": 1.4150971698084907
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 10,
+            "errx-ble": 0.15,
+            "erry-ble": 0.0,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 49,
+            "errx-ble": 1.5,
+            "erry-ble": 2.1,
+            "err-ble": 2.5806975801127883
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 2,
+            "errx-ble": 0.3,
+            "erry-ble": 0.6,
+            "err-ble": 0.6708203932499369
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 34,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 0.15,
+            "err-ble": 0.9124143795447328
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 57,
+            "errx-ble": 0.0,
+            "erry-ble": 0.0,
+            "err-ble": 0.0
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 53,
+            "errx-ble": 0.75,
+            "erry-ble": 0.15,
+            "err-ble": 0.7648529270389177
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 49,
+            "errx-ble": 0.15,
+            "erry-ble": 0.3,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 49,
+            "errx-ble": 0.75,
+            "erry-ble": 0.3,
+            "err-ble": 0.8077747210701756
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 18,
+            "errx-ble": 0.15,
+            "erry-ble": 0.3,
+            "err-ble": 0.33541019662496846
+        },
+        {
+            "x-coord": 23,
+            "y-coord": 45,
+            "errx-ble": 1.5,
+            "erry-ble": 0.75,
+            "err-ble": 1.6770509831248424
+        },
+        {
+            "x-coord": 23,
+            "y-coord": 49,
+            "errx-ble": 0.44999999999999996,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.6363961030678927
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 2,
+            "errx-ble": 2.85,
+            "erry-ble": 4.95,
+            "err-ble": 5.7118298293979315
+        },
+        {
+            "x-coord": 9,
+            "y-coord": 45,
+            "errx-ble": 0.15,
+            "erry-ble": 0.0,
+            "err-ble": 0.15
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.0,
+            "err-ble": 0.3
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 10,
+            "errx-ble": 0.3,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.5408326913195983
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 45,
+            "errx-ble": 1.3499999999999999,
+            "erry-ble": 0.0,
+            "err-ble": 1.3499999999999999
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 40,
+            "errx-ble": 2.6999999999999997,
+            "erry-ble": 3.0,
+            "err-ble": 4.036087214122113
+        },
+        {
+            "x-coord": 25,
+            "y-coord": 10,
+            "errx-ble": 1.95,
+            "erry-ble": 1.2,
+            "err-ble": 2.2896506283710623
+        },
+        {
+            "x-coord": 19,
+            "y-coord": 10,
+            "errx-ble": 0.8999999999999999,
+            "erry-ble": 1.2,
+            "err-ble": 1.5
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 34,
+            "errx-ble": 0.3,
+            "erry-ble": 0.44999999999999996,
+            "err-ble": 0.5408326913195983
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 18,
+            "errx-ble": 0.15,
+            "erry-ble": 0.75,
+            "err-ble": 0.7648529270389177
+        },
+        {
+            "x-coord": 27,
+            "y-coord": 49,
+            "errx-ble": 0.3,
+            "erry-ble": 2.6999999999999997,
+            "err-ble": 2.7166155414412247
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 40,
+            "errx-ble": 0.44999999999999996,
+            "erry-ble": 0.15,
+            "err-ble": 0.47434164902525683
+        },
+        {
+            "x-coord": 7,
+            "y-coord": 26,
+            "errx-ble": 0.0,
+            "erry-ble": 0.0,
+            "err-ble": 0.0
+        },
+        {
+            "x-coord": 5,
+            "y-coord": 45,
+            "errx-ble": 1.5,
+            "erry-ble": 0.6,
+            "err-ble": 1.6155494421403511
+        },
+        {
+            "x-coord": 1,
+            "y-coord": 53,
+            "errx-ble": 0.3,
+            "erry-ble": 1.5,
+            "err-ble": 1.5297058540778354
+        },
+        {
+            "x-coord": 13,
+            "y-coord": 26,
+            "errx-ble": 0.15,
+            "erry-ble": 0.6,
+            "err-ble": 0.6184658438426491
+        },
+        {
+            "x-coord": 17,
+            "y-coord": 45,
+            "errx-ble": 0.15,
+            "erry-ble": 0.15,
+            "err-ble": 0.21213203435596426
+        }
+    ],
+    "mae-ble": 1.3193320576983656,
+    "rmse-ble-x": 1.3678740970771197,
+    "rmse-ble-y": 1.2623030899546632,
+    "max-error-ble": 5.7118298293979315,
+    "min-error-ble": 0.0,
+    "fd": 7,
+    "filter": "kalman"
+}
