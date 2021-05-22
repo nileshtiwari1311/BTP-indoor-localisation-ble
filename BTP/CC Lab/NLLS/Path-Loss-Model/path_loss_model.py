@@ -53,8 +53,8 @@ for id3 in range(1, noOfBeacons+1) :
 	plt.yticks(fontsize=20)
 	plt.xlim([0, 11])
 
-	plt.plot(distance_list, rssi_list, "xb")
-	plt.plot(distance_list, [z_scipy_a[0]*np.log10(it) + a_beacon[id3-1] for it in distance_list], "-r")
+	plt.plot(distance_list, rssi_list, "xb", markersize=20)
+	plt.plot(distance_list, [z_scipy_a[0]*np.log10(it) + a_beacon[id3-1] for it in distance_list], "-r", linewidth=5)
 	plt.legend(["Raw", "Log Path Loss"], fontsize=20)
 	# plt.show()
 	filename = os.path.join(save_path, "path_loss_" + str(id3))

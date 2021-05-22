@@ -1,0 +1,58 @@
+/WKNN/
+
+	1.	required : final-readings, ref-points-readings, sample-points-readings
+		python3 [json_generator_all_points.py, json_generator_ref_points.py, json_generator_sample_points.py]
+		output : beacon-all-points-[filter], beacon-ref-points-[filter], beacon-sample-points-[filter], 
+		         geoMag-all-points-[filter], geoMag-ref-points-[filter], geoMag-sample-points-[filter] 
+
+	2.	required : beacon-all-points-[filter]
+		python3 rssi_vs_distance_graph.py
+		output : Graphs/rssi_vs_distance_reported
+		check generated graphs for consistency in graphs for each beacon
+
+	3.	required : beacon-all-points-[filter], Path-Loss-Model
+		python3 rssi_map_graph.py
+		output : Graphs/rssi_map_continuous
+		check generated graphs for consistency in graphs for each beacon
+
+	4.	required : final-readings
+		python3 rssi_vs_sampling_times_graph.py
+		output : Graphs/rssi_vs_sampling_times
+		check generated graph for consistency in readings of each beacon
+
+	5.	required : beacon-ref-points-[filter], beacon-sample-points-[filter], geoMag-ref-points-[filter], geoMag-sample-points-[filter]
+		python3 wknn.py
+		output : error-database
+
+	/error-database/
+	6.	required : error-database
+		python3 combine_error_values.py
+		output : beacon_error_database_complete.py
+
+	7.	required : beacon_error_database_complete.py
+		python3 error_summary.py
+		obtain top 10 results
+
+/NLLS/
+
+	1.	required : sample-points
+		python3 json_generator_sample_points.py
+		output : beacon-sample-points-[filter]
+
+	2.	required : beacon-sample-points-[filter], Path-Loss-Model
+		python3 nlls.py
+		output : error-database
+
+	/error-database/
+	3.	required : error-database
+		python3 combine_error_values.py
+		output : beacon_error_database_complete.py
+
+	4.	required : beacon_error_database_complete.py
+		python3 error_summary.py
+		obtain top 10 results
+
+/
+1.	required : WKNN/error-database, NLLS/error-database
+	python3 error_graphs.py
+	output : Graphs
