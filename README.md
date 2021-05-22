@@ -14,5 +14,5 @@ In this work, we present an indoor localization system built using BLE beacons f
 
 ## CONTRIBUTIONS
 ###	The main contributions of this work are:<br/>
-• a study into the key parameters of BLE localization for different environments for achieving good accuracy;
+• a study into the key parameters of BLE localization for different environments for achieving good accuracy;<br/>
 • impact of fingerprint dimensionality on error for mulitple localization algorithms.
